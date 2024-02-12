@@ -11,3 +11,6 @@ TINKER: A framework for Open source Cyberthreat Intelligence
 highly academic and uses software to build datasets based on inputs.  may not be useful.
 
 
+https://arxiv.org/abs/2103.03530
+A bit outdated, but was updated in Fall 2023.  Brings up some good points about addressing "strategic, operational, and tactical" intelligence.  Also points out pitfalls of existing CTI work, namely: avoiding ambiguity, ensuring proper terminology use, and proper linkage of relationships for complex topics.
+
