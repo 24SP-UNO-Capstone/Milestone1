@@ -35,7 +35,10 @@ Skillset limitations
 | Lack of prior works (42) | 7 | 6 | As is standard for research related topics, there can exist a hole in relevant related works. In order to mitigate this risk, we will utilize a number of diverse sources of information includeing academic journals, blogs, websites, and books. |
 
 ## Project Methodology
-AGILE METHOD
+#### Literature Review
+The concept of Cyber Threat Intelligence as a preventive defense plan has attracted considerable attention across the industry in recent years.  Existing literature from corporate entities such as Lockheed Martin's <a href="https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html">Cyber Kill Chain</a> framework or Mandiant's <a href="https://www.mandiant.com/resources/blog/cti-analyst-core-competencies-framework">CTI Analyst Core Competencies Framework</a> can provide a basis for a robust cybersecurity defense portfolio.  Additionally, academic efforts have also provided their own CTI frameworks, with <a href="https://www.recordedfuture.com/blog/diamond-model-intrusion-analysis">The Diamond Model</a> as a prime example.  Other academic works include: <a href="https://arxiv.org/abs/2102.05571">TINKER: A framework for Open source Cyberthreat Intelligence</a>. 
+
+Further supporting documents like the <a href="https://docs.oasis-open.org/cti/stix/v2.1/cs01/stix-v2.1-cs01.html">Structured Threat Information Expression (STIX™)</a> from Oasis Open provide terminology and relational guidance when classifying potential threats.  
 
 
 ## Resources Needed
