@@ -1,0 +1,39 @@
+https://www.ncsc.gov.uk/files/An-introduction-to-threat-intelligence.pdf 
+CERT-UK whitepaper covering key concepts, threat intelligence’s role with network defense, common languages and frameworks and best practices for threat intelligence. Links to other related works, may be useful when gathering general information related to our topic.  (8 pages)
+
+
+https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-150.pdf
+National Institute of Standards and Technology (NIST) guide to cyber threat information sharing. Great resource coving many different topics along with explanations of terms used. Includes examples of actions that can be taken after the collection of threat information. Will be very useful when building our project.  (43 pages)
+
+
+https://oasis-open.github.io/cti-documentation/ 
+Additional information surrounding Cyber threat Intelligence transport mechanism TAXII and the structured language of STIX. 
+
+https://www.memcyco.com/home/cyber-threat-intelligence-framework/ 
+brief webpage from a commercial entity about building a threat intelligence strategy. Has multiple key objectives that could be completed without the vendor being involved. 
+
+
+https://attack.mitre.org/ 
+Collection of useful threat information that we could utilize into our project. Contains TTPs, Threat Actor Campaign information, and mitigation options for findings. 
+
+https://media.defense.gov/2019/Jul/16/2002158108/-1/-1/0/CTR_NSA-CSS-TECHNICAL-CYBER-THREAT-FRAMEWORK_V2.PDF 
+National Security Agency (NSA) Technical Cyber Threat Framework V2. Last updated July of 2019, appears very similar to MIRE ATT&CK framework and related information. May not be useful to our project. 
+
+
+Other sources of information we could possibly utilize in the project. 
+https://Ipvoid.com 
+https://Urlvoid.com 
+https://iplists.firehol.org
+https://attack.mitre.org/ 
+https://virustotal.com 
+https://phishtank.org/ 
+https://otx.alienvault.com/ 
+https://securitytrails.com   
+https://www.cisa.gov/news-events/bulletins/ 
+https://nvd.nist.gov/ 
+https://www.talosintelligence.com/ 
+https://www.paloaltonetworks.com/cortex/threat-intelligence 
+https://blog.google/threat-analysis-group/ 
+https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/?sort-by=newest-oldest&date=any 
+https://therecord.media/ 
+https://www.chainalysis.com/ 
