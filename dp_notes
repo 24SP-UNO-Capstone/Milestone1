@@ -86,3 +86,16 @@ Build out an official markdown document of our CTI framework
 •	Include a general “what is CTI and why you should use it”
 •	Document the collection of CTI information process
 •	Document the actions that should be taken after collection
+
+-----
+-----
+
+Resources needed 
+Internet Access 
+Computer to test the collection of CTI information
+Access to literature above 
+Python CLI or ability to run scripts 
+Chron jobs or ability to schedule tasks 
+TAXII software
+Access to STIX info 
+
