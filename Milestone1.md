@@ -40,9 +40,13 @@ In order to achieve this goal, we will utilize prior works in this sector, as we
 
 ## Project Methodology
 ---
-1. Conduct stake holder analysis to identify audience and their relevant needs to target needs based on organization size.
-2. Research and review relevant documents related to Cyber Threat Intelligence (CTI), prior CTI program guides, tooling, and other relevant literature. This step will be used to identify best practices, successful methodologies, useful tools, etc.
-3. Utilizing the relevant literature create solutions to documented issues with prior implementations of CTI program guides and best practices.
+1. Conduct stakeholder analysis to identify the audience and their relevant needs to target needs based on organization size.
+2. Research and review relevant Cyber Threat Intelligence (CTI) documents, prior CTI program guides, tooling, and other relevant literature. This step will identify best practices, successful methodologies,  and valuable tools.
+3. Utilizing the relevant literature, create solutions to documented issues with prior implementations of CTI program guides and best practices.
+4. Build example automated tooling to ingest and aggregate CTI.
+5. Create examples of CTI reports with actionable intelligence.
+6. Create example recommendations based on available security tooling to execute actionable intelligence reports.
+7. Create official Cyber Threat Intelligence (CTI) Framework utilizing research findings, implementation best practices, documented examples of successful reporting, and document templates.
 
 #### Literature Review
 ---
@@ -50,9 +54,26 @@ The concept of Cyber Threat Intelligence as a preventive defense plan has attrac
 
 Further supporting documents like the [Structured Threat Information Expression (STIX™)](https://docs.oasis-open.org/cti/stix/v2.1/cs01/stix-v2.1-cs01.html) from Oasis Open provide terminology and relational guidance when classifying potential threats.  
 
-
 ## Resources Needed
 ---
+
+|Resource  | Dr. Hale needed? | Investigating Team member | Description |
+|-------------------|---------|---------------------------|-------------|
+| Open Source Intelligence Feeds | No | Dillon | Some description |
+| Relevant Prior Literature | No | Team | Some description |
+| STIX/TAXII Standards | No | Josh | Some description |
+| Some resource | No | Bob | Some description |
+| Some resource | No | Bob | Some description |
+| Some resource | No | Bob | Some description |
+| Some resource | No | Bob | Some description |
+|e.g. PLC unit | Yes | Gary | A programmable logic controller from Siemens for investigation.|
+ - Internet Access 
+ - Computer to test the collection of CTI information
+ - Access to literature above 
+ - Python CLI or ability to run scripts 
+ - Cron jobs or ability to schedule tasks 
+ - TAXII software
+ - Access to STIX info 
 
 ## First Sprint Plan
 ---
