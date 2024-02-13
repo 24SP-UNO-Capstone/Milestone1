@@ -46,3 +46,43 @@ https://phishunt.io/
 https://www.abuseipdb.com/
 https://urlhaus.abuse.ch/downloads/csv/
 https://isc.sans.edu/feeds/block.txt 
+
+
+
+
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+Kanban board task ideas?
+
+Continue researching past works. 
+Build list of officially utilized sources.
+Build list of threat information types utilized.
+•	Hashes
+•	IP addresses
+•	Domains
+•	TTPs
+•	CVEs
+
+Document how personnel in the organization may benefit from this information
+•	SOC can utilize this info for incident response
+•	Security engineering teams can proactively block threats
+•	Vulnerability operations teams can expedite patching processes
+•	Fraud teams can investigate abnormal activities 
+•	System administrators can harden infrastructure to mitigate risk
+•	Other teams? 
+
+Create an example of automation to pull from utilized sources. 
+o	TAXII? 
+o	Python collection from APIs?
+
+Create examples of actions that organizations can take to defend themselves.
+o	Blacklist hashes in AV tools
+o	Import into firewall block rules
+o	Detect via IDS\IPS
+o	Hunt previous logs for newly discovered indicators 
+
+Build out an official markdown document of our CTI framework
+•	Include a general “what is CTI and why you should use it”
+•	Document the collection of CTI information process
+•	Document the actions that should be taken after collection
