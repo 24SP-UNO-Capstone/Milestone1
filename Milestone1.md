@@ -7,19 +7,23 @@
 - [Risk list](#risk-list)
 - [Project Methodology](#project-methodology)
     - [Literature Review](#literature-review)
+    - [Technical Plan](#technical-plan)
 - [Resources Needed](#resources-needed)
 - [First Sprint Plan](#first-sprint-plan)
 
 ## Team Members
+
 Dillon Petschke
+
 John Kieran
+
 Josh Kelley
 
 ## Executive Project Summary
 ---
 In today's ultra-connected business world, organizations can no longer afford to be reactive in their cybersecurity posture.  Emerging threats are discovered daily and adversaires often exploit 0-day vulnerabilities with increasing success.  A proactive response is needed to ensure all assets are sufficiently secured.  This project will explore and compile a framework to be applied in a multitude of scenarios to best protect an organization's most critical infastructure.
 
-The goal of the project is to create an open source guide to creating an effective cyber threat intelligence (CTI) program for small and medium businesses. 
+The goal of the project is to create an open source guide to creating an effective cyber threat intelligence (CTI) program for small and medium businesses. To do so, we will conduct a thorough analysis of prior works, and identify best practices, procedures, and issues. Once these have been identified we can create a 
 
 In order to achieve this goal, we will utilize prior works in this sector, as well as, identify open source, value add tools that can provide threat intelligence to emerging CTI programs.
 
@@ -48,6 +52,7 @@ Further supporting documents like the [Structured Threat Information Expression 
 
 #### Technical Plan 
 ---
+
 1. Research and review relevant Cyber Threat Intelligence (CTI) documents, prior CTI program guides, tooling, and other relevant literature. This step will identify best practices, successful methodologies,  and valuable tools.
 2. Conduct stakeholder analysis to identify the audience and their relevant needs to target needs based on organization size.
 4. Utilizing the relevant literature, create solutions to documented issues with prior implementations of CTI program guides and best practices.
@@ -85,13 +90,15 @@ Further supporting documents like the [Structured Threat Information Expression 
   - Continue research and review of relevant prior works.
   - Cite works appropriately and create annotations summarizing relevant and important findings. 
 
-**Tasks:**
-Group Tasks:
-- Research prior CTI methodologies, implementations, and short comings
-  - Document issues with prior
-  - Document successful/good ideas
-  - Document things we can take and implement/improve on
-    - **we are not reinventing the wheel** - merely applying some tire shine :)
+- Finish Executive summary - Josh Dillion
+- add to literature review - Josh Dillion John
+- burn down chart - John
+
+Example Centered Image HTML
+
+<div class="align-center">
+    <img src="./images/1.png" alt="stupid thing isn't working">
+<div>
 
 Task
  - Identify Opensource CTI related tools that can be used
