@@ -10,3 +10,7 @@
   - doi: 10.1109/ICTC55196.2022.9952616
   - https://ieeexplore.ieee.org/abstract/document/9952616
   - Irfan, A. N., Chuprat, S., Mahrin, M. N., & Ariffin, A. (2022). Taxonomy of cyber threat intelligence framework. 2022 13th International Conference on Information and Communication Technology Convergence (ICTC). https://doi.org/10.1109/ictc55196.2022.9952616 
+4. Methodological Framework to Collect, Process, Analyze and Visualize Cyber Threat Intelligence Data
+  - https://doi.org/10.3390/app12031205
+  - https://www.mdpi.com/2076-3417/12/3/1205
+  - Borges Amaro, L. J., Percilio Azevedo, B. W., Lopes de Mendonca, F. L., Giozza, W. F., Albuquerque, R. de, & García Villalba, L. J. (2022). Methodological framework to collect, process, analyze and visualize cyber threat intelligence data. Applied Sciences, 12(3), 1205. https://doi.org/10.3390/app12031205 
