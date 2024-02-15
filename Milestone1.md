@@ -19,11 +19,9 @@
 
 ## Executive Project Summary
 ---
-In today's ultra-connected business world, organizations can no longer afford to be reactive in their cybersecurity posture.  Emerging threats are discovered daily and adversaires often exploit 0-day vulnerabilities with increasing success.  A proactive response is needed to ensure all assets are sufficiently secured.  This project will explore and compile a framework to be applied in a multitude of scenarios to best protect an organization's most critical infastructure.
+In today's ultra-connected business world, organizations can no longer afford to be reactive in their cybersecurity posture. Emerging threats are discovered daily, and adversaries often exploit 0-day vulnerabilities, social engineering techniques, and known exploitation methods with increasing success. A proactive response is needed to ensure all assets are sufficiently secured. This project will explore and compile a Cyber Threat Intelligence (CTI) program framework to be applied in many scenarios to better inform organizations' security teams of ongoing threats and attackers. We are choosing this project to expand our expertise as security practitioners and identify issues with prior implementations of CTI frameworks to provide a positive value to potential stakeholders in our final deliverables. 
 
-The goal of the project is to create an open source guide to creating an effective cyber threat intelligence (CTI) program for small and medium businesses. To do so, we will conduct a thorough analysis of prior works, and identify best practices, procedures, and issues. Once these have been identified we can create a 
-
-In order to achieve this goal, we will utilize prior works in this sector, as well as, identify open source, value add tools that can provide threat intelligence to emerging CTI programs.
+In many small or medium-sized organizations, security must be given the resources, personnel, or time necessary to deploy a full-scale Cyber Threat Intelligence team adequately. The benefits of such a program can be instrumental in defending the business's assets and critical infrastructure from adversaries. Understanding this is different from the reality for most organizations. We aim to identify the best way to implement an effective CTI program that can produce actionable intelligence for security teams while not requiring state-of-the-art resources that are cost-prohibitive for organizations and security teams of this size. This framework may include open-source threat intelligence feeds, reporting templates, tooling to ingest and aggregate threat intelligence, and industry best practices for implementing an effective program. 
 
 
 
