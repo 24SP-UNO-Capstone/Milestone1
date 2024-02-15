@@ -13,11 +13,9 @@
 
 ## Team Members
 
-Dillon Petschke
-
-John Kieran
-
-Josh Kelley
+- Dillon Petschke
+- John Kieran
+- Josh Kelley
 
 ## Executive Project Summary
 ---
@@ -104,7 +102,7 @@ Multiple private sector or commercially publicized works are also available, suc
 Example Centered Image HTML
 
 <div class="align-center">
-    <img src="./images/1.png" alt="stupid thing isn't working">
+    <img src="./images/intelligenceprocess.png" alt="stupid thing isn't working">
 <div>
 
 Task
