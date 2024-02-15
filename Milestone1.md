@@ -37,8 +37,8 @@ In order to achieve this goal, we will utilize prior works in this sector, as we
 | Skillset limitations (32) | 4 | 8 | Due to the diverse nature of IT and Cybersecurity, some members of the group (all of us) may not have been exposed to different methodologies and techniques of conducting necessary tasks. In order to combat this, we will work together to learn as necessary to better the team as a whole. |
 | Student availability (56) | 8 | 7 | Due to the team having professional careers and lives outside of CYBR8950, it is likely there will be scheduling limitation and conflicts that occur. This will lead to a major impact as the workload must be distributed evenly to be successful. |
 | Open Source License Restrictions (48) | 6 | 8 | Open-source technologies while free to use individually, may have certain restrictions placed on them in the business environment. Seeing as this is the case we will identify those tools, and document the proper method of using the tool and alternatives that do not have this restriction. |
-| Access to technological resources (21) | 3 | 7 | Given the scope of the project in CTI, it is likely we will not have access to a number of business grade tooling that would otherwise be available to the consumers of this guide. Given this we can identify Open-Source or Free work arounds to appropriately test and convery the success of this guide. |
-| Lack of prior works (42) | 7 | 6 | As is standard for research related topics, there can exist a hole in relevant related works. In order to mitigate this risk, we will utilize a number of diverse sources of information includeing academic journals, blogs, websites, and books. |
+| Access to technological resources (21) | 3 | 7 | Given the scope of the project in CTI, it is likely we will not have access to a number of business grade tooling that would otherwise be available to the consumers of this guide. Given this we can identify Open-Source or free work arounds to appropriately test and convey the success of this guide. |
+| Lack of prior works (42) | 7 | 6 | As is standard for research related topics, there can exist a hole in relevant related works. In order to mitigate this risk, we will utilize a number of diverse sources of information including academic journals, blogs, websites, and books. |
 
 ## Project Methodology
 
@@ -55,7 +55,7 @@ Multiple private sector or commercially publicized works are also available, suc
 #### Technical Plan 
 ---
 
-1. Research and review relevant Cyber Threat Intelligence (CTI) documents, prior CTI program guides, tooling, and other relevant literature. This step will identify best practices, successful methodologies,  and valuable tools.
+1. Research and review relevant Cyber Threat Intelligence (CTI) documents, prior CTI program guides, tooling, and other relevant literature. This step will identify best practices, successful methodologies, and valuable tools.
 2. Conduct stakeholder analysis to identify the audience and their relevant needs to target needs based on organization size.
 4. Utilizing the relevant literature, create solutions to documented issues with prior implementations of CTI program guides and best practices.
 5. Build example automated tooling to ingest and aggregate CTI.
@@ -64,7 +64,7 @@ Multiple private sector or commercially publicized works are also available, suc
 8. Create an official Cyber Threat Intelligence (CTI) Framework utilizing research findings, implementation best practices, documented examples of successful reporting, and document templates.
 
 <div class="align-center">
-	<img src="./images/burn_down1.png" alt="What am I doing here?" style="width:497px;height:298px;">
+	<img src="./images/burn_down1.png" alt="what am I doing here?" style="width:497px;height:298px;">
 <div>
 
 ## Resources Needed
