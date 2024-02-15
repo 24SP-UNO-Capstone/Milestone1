@@ -61,6 +61,9 @@ Further supporting documents like the [Structured Threat Information Expression 
 7. Create example recommendations based on available security tooling to execute actionable intelligence reports.
 8. Create an official Cyber Threat Intelligence (CTI) Framework utilizing research findings, implementation best practices, documented examples of successful reporting, and document templates.
 
+<div class="align-center">
+	<img src="./images/burn_down1.png" alt="What am I doing here?" style="width:497px;height:298px;">
+<div>
 
 ## Resources Needed
 ---
