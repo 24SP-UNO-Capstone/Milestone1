@@ -72,10 +72,10 @@ Multiple private sector or commercially publicized works are also available, suc
 
 |Resource  | Dr. Hale needed? | Investigating Team member | Description |
 |-------------------|---------|---------------------------|-------------|
-| Open Source Intelligence Feeds | No | Dillon | Some description |
-| Relevant Prior Literature | No | Team | Some description |
-| STIX/TAXII Standards | No | Josh | Some description |
-| Some resource | No | Bob | Some description |
+| Open Source Intelligence Feeds | No | Dillon | Any worthwhile CTI will need actionable input.  We will need to source sufficiently useful input streams for framework's users.  The feeds will need to be free or low-cost to make the framework as approachable as possible. |
+| Relevant Prior Literature | No | Team | We plan to build on prior industry knowledge and compile the best elements of each. |
+| STIX/TAXII Standards | No | Josh | The STIX/TAXII nomenclature allows for improved threat sharing, better detection and response, bolstered collaboration, and enables automation in response to events. |
+
 
 
 
@@ -112,4 +112,3 @@ Task
    - https://www.apivoid.com/pricing/
    - https://otx.alienvault.com/api
  - Research Threat intelligence frameworks, identify issues/holes/implementation challenges/Cost
- - 
