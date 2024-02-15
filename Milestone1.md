@@ -19,7 +19,7 @@
 
 ## Executive Project Summary
 ---
-In today's ultra-connected business world, organizations can no longer afford to be reactive in their cybersecurity posture.  Emerging threats are discovered daily and adversaires often exploit 0-day vulnerabilities with increasing success.  A proactive response is needed to ensure all assets are sufficiently secured.  This project will explore and compile a framework to be applied in a multitude of scenarios to best protect an organization's most critical infastructure.
+In today's ultra-connected business world, organizations can no longer afford to be reactive in their cybersecurity posture.  Emerging threats are discovered daily and adversaires often exploit 0-day vulnerabilities, social engineering techniques, and known exploitation methods with increasing success.  A proactive response is needed to ensure all assets are sufficiently secured.  This project will explore and compile a framework to be applied in a multitude of scenarios to best protect an organization's most critical infastructure.
 
 The goal of the project is to create an open source guide to creating an effective cyber threat intelligence (CTI) program for small and medium businesses. To do so, we will conduct a thorough analysis of prior works, and identify best practices, procedures, and issues. Once these have been identified we can create a 
 
