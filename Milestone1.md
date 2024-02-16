@@ -25,9 +25,6 @@ In many small or medium-sized organizations, security must be given the resource
 
 
 
-## Proposed project timeline
----
-
 ## Risk list
 ---
 |Risk name (value)  | Impact     | Likelihood | Description |
@@ -95,7 +92,7 @@ Multiple private sector or commercially publicized works are also available, suc
 
 <br/><br/>
 
-#### Estimated Timeline
+## Proposed project timeline
 ---
 
 <div class="align-center">
