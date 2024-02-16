@@ -3,11 +3,11 @@
 - [Cyber Threat Intelligence Project- Milestone 1: Requirements analysis and planning (Project Proposal Stage)](#cyber-threat-intelligence-project--milestone-1-requirements-analysis-and-planning-project-proposal-stage)
 - [Team Members](#team-members)
 - [Executive Project Summary](#executive-project-summary)
-- [Proposed project timeline](#proposed-project-timeline)
 - [Risk list](#risk-list)
 - [Project Methodology](#project-methodology)
     - [Literature Review](#literature-review)
     - [Technical Plan](#technical-plan)
+- [Proposed project timeline](#proposed-project-timeline)
 - [Resources Needed](#resources-needed)
 - [First Sprint Plan](#first-sprint-plan)
 
@@ -46,6 +46,8 @@ Further supporting documents like the [Structured Threat Information Expression 
 Government organizations have also developed best practices and recommendations, such as the UK’s (CERT) Computer Emergency Response Team’s [whitepaper](https://www.ncsc.gov.uk/files/An-introduction-to-threat-intelligence.pdf) covering key concepts and strategies. Along with the United States (NSA) National Security Agency and their [V2 Cyber threat framework](https://media.defense.gov/2019/Jul/16/2002158108/-1/-1/0/CTR_NSA-CSS-TECHNICAL-CYBER-THREAT-FRAMEWORK_V2.PDF ). Additionally, the National Institute of Standards and Technology (NIST) guide to [cyber threat information sharing](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-150.pdf) covers multiple topics around intelligence sharing and techniques. 
 
 Multiple private sector or commercially publicized works are also available, such as Memcyco’s [threat intelligence framework](https://www.memcyco.com/home/cyber-threat-intelligence-framework/). Along with large corporations such as Microsoft, Google, Palo Alto, and others disclosing their own threat intelligence, threat actor reports, indicators of compromise, and more. 
+
+Please see [Literature Review.md](https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/Literature%20Review.md) for citations, URLs, and relevance to our project. 
 
 #### Technical Plan 
 ---
