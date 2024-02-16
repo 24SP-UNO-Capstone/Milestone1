@@ -53,13 +53,37 @@ Multiple private sector or commercially publicized works are also available, suc
 #### Technical Plan 
 ---
 
-1. Research and review relevant Cyber Threat Intelligence (CTI) documents, prior CTI program guides, tooling, and other relevant literature. This step will identify best practices, successful methodologies, and valuable tools.
-2. Conduct stakeholder analysis to identify the audience and their relevant needs to target needs based on organization size.
-4. Utilizing the relevant literature, create solutions to documented issues with prior implementations of CTI program guides and best practices.
-5. Build example automated tooling to ingest and aggregate CTI.
-6. Create examples of CTI reports with actionable intelligence.
-7. Create example recommendations based on available security tooling to execute actionable intelligence reports.
-8. Create an official Cyber Threat Intelligence (CTI) Framework utilizing research findings, implementation best practices, documented examples of successful reporting, and document templates.
+1.	Research and review relevant Cyber Threat Intelligence (CTI) documents, prior CTI program guides, tooling, and other relevant literature.
+
+This step will identify best practices, successful methodologies, and valuable tools utilized in the industry. Allowing us to learn from others’ failures, lessons learned, or obstacles. We will improve upon these suggested practices and document our findings ultimately informing our final CTI framework development in later steps.
+
+
+
+2.	Conduct stakeholder analysis to identify the audience and their relevant needs based on organization size or specialized job types.
+
+Stakeholder analysis will inform our future project scoping efforts. Focusing on specific stakeholders, we can develop the best framework to meet the audience’s needs, suggest actions that are relevant, and generate appropriate report templates.
+
+3.	Utilizing the relevant literature, create solutions to documented issues with prior implementations of CTI program guides and best practices.
+
+Utilizing research and findings from step 1, we will begin to develop our Cyber Threat Intelligence framework. Keeping the stakeholders in mind, we will begin producing our CTI framework document. 
+
+
+4.	Build example automated tooling to ingest and aggregate CTI.
+
+To be included in our framework document, we will develop an example architecture that can be replicated by the stake holders to begin their CTI ingestion and aggregation journey. 
+
+
+5.	Create examples of CTI reports with actionable intelligence.
+
+Report templates specifically focused on CTI will be developed for the audience, allowing them to provide value to their organization. These templates can be generated using information collected by CTI feeds or sources. 
+
+6.	Create example recommendations based on available security tooling to execute actionable intelligence reports.
+
+In this step, we will generate actionable steps that the audience can utilize previously generated reports and threat intelligence gathered. For example, suggesting the stakeholder blacklist file hashes in their antivirus tool, or prevent inbound email messages from known malicious senders.  
+
+7.	Create an official Cyber Threat Intelligence (CTI) Framework utilizing research findings, implementation best practices, documented examples of successful reporting, and document templates.
+
+A final CTI framework will be generated and available for public use. Along with intel collection recommendations, suggested tooling, report templates, and actionable examples relevant to our stakeholders. 
 
 <div class="align-center">
 	<img src="./images/burn_down1.png" alt="what am I doing here?" style="width:497px;height:298px;">
