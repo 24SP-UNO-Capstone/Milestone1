@@ -7,8 +7,8 @@
 - [Project Methodology](#project-methodology)
     - [Literature Review](#literature-review)
     - [Technical Plan](#technical-plan)
-- [Proposed project timeline](#proposed-project-timeline)
 - [Resources Needed](#resources-needed)
+- [Proposed project timeline](#proposed-project-timeline)
 - [First Sprint Plan](#first-sprint-plan)
 
 ## Team Members
@@ -94,13 +94,6 @@ Please see [Literature Review.md](https://github.com/24SP-UNO-Capstone/Milestone
 
 <br/><br/>
 
-## Proposed project timeline
----
-
-<div class="align-center">
-	<img src="./images/burn_down1.png" alt="what am I doing here?" style="width:497px;height:298px;">
-<div>
-
 ## Resources Needed
 ---
 
@@ -110,8 +103,12 @@ Please see [Literature Review.md](https://github.com/24SP-UNO-Capstone/Milestone
 | Relevant Prior Literature | No | Team | We plan to build on prior industry knowledge and compile the best elements of each. |
 | STIX/TAXII Standards | No | Josh | The STIX/TAXII nomenclature allows for improved threat sharing, better detection and response, bolstered collaboration, and enables automation in response to events. |
 
+## Proposed project timeline
+---
 
-
+<div class="align-center">
+	<img src="./images/burn_down1.png" alt="what am I doing here?" style="width:497px;height:298px;">
+<div>
 
 ## First Sprint Plan
 ---
