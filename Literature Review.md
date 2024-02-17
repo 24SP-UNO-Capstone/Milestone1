@@ -38,7 +38,8 @@
      - National Institute of Standards and Technology (NIST) guide to cyber threat information sharing. Great resource coving many different topics along with explanations of terms used. Includes examples of actions that can be taken after the collection of threat information. Will be very useful when building our project.  (43 pages)
 
 7. STIX and TAXII Guide
-   - **URL**: https://oasis-open.github.io/cti-documentation/ 
+   - **URL**: https://oasis-open.github.io/cti-documentation/
+   - **Relevance**:
    - Additional information surrounding Cyber threat Intelligence transport mechanism TAXII and the structured language of STIX. 
 8. 6 Steps to Building a Cyber Threat Intelligence Framework
    - **URL**: https://www.memcyco.com/home/cyber-threat-intelligence-framework/ 
@@ -55,7 +56,7 @@
    - **URL**: https://media.defense.gov/2019/Jul/16/2002158108/-1/-1/0/CTR_NSA-CSS-TECHNICAL-CYBER-THREAT-FRAMEWORK_V2.PDF 
    - **Citation**: 
      - NSA/CSS technical cyber threat framework V2. (2018, November 29). https://media.defense.gov/2019/Jul/16/2002158108/-1/-1/0/CTR_NSA-CSS-TECHNICAL-CYBER-THREAT-FRAMEWORK_V2.PDF 
-   - **Relevance&** 
+   - **Relevance**: 
      - National Security Agency (NSA) Technical Cyber Threat Framework V2. Last updated July of 2019, appears very similar to MIRE ATT&CK framework and related information. May not be useful to our project. 
 11. STIX™ Version 2.1
    - **URL**: https://docs.oasis-open.org/cti/stix/v2.1/cs01/stix-v2.1-cs01.html
