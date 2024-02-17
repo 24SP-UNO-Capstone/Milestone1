@@ -4,26 +4,28 @@
    -  **Citation**: 
       -  Sahrom Abu, M., Rahayu Selamat, S., Ariffin, A., & Yusof, R. (2018). Cyber threat intelligence – issue and challenges. Indonesian Journal of Electrical Engineering and Computer Science, 10(1), 371. https://doi.org/10.11591/ijeecs.v10.i1.pp371-379
    - **Relevance**:
-     - 
+     - This paper analyzes prior Cyber Threat Intelligence (CTI) work in 2018 focused on consolidating the broad definition of CTI into a concretely defined term. The authors also identified issues and challenges in CTI, such as the disparity between Threat Intelligence Management Systems (TIMS) and CTI threat aggregation feeds. Some challenges the author(s) identified include threat data overload, threat data quality, privacy and legal concerns, and interoperability in Threat Intelligence Sharing Platforms (TISP). This journal will provide a good resource for challenges, definitions, and reviews of prior works that could be valuable to our final deliverable.
 2. A Framework for Cyber Threat Intelligence Extraction from Raw Log Data
    - **DOI**: 10.1109/BigData47090.2019.9006328
    - **URL**: https://ieeexplore.ieee.org/abstract/document/9006328
    - **Citation**: 
      - Landauer, M., Skopik, F., Wurzenberger, M., Hotwagner, W., & Rauber, A. (2019). A framework for cyber threat intelligence extraction from Raw Log Data. 2019 IEEE International Conference on Big Data (Big Data). https://doi.org/10.1109/bigdata47090.2019.9006328
    - **Relevance**:
+     - This paper proposes a solution to the slow process of generating cyber threat intelligence (CTI) by generating actionable CTI from raw log events. The authors addressed several issues with this approach, including the vast difference in log formatting, rich unstructured data, variability of logs between systems, and false positive rates. The paper also includes a well-structured analysis of CTI requirements, formats, and typical CTI pain points that could provide value to our final deliverable.
 3. Taxonomy of Cyber Threat Intelligence Framework
    - **DOI**: 10.1109/ICTC55196.2022.9952616
    - **URL**: https://ieeexplore.ieee.org/abstract/document/9952616
    - **Citation**: 
      - Irfan, A. N., Chuprat, S., Mahrin, M. N., & Ariffin, A. (2022). Taxonomy of cyber threat intelligence framework. 2022 13th International Conference on Information and Communication Technology Convergence (ICTC). https://doi.org/10.1109/ictc55196.2022.9952616 
    - **Relevance**:
+     - This paper deeply analyzes prior Cyber Threat Intelligence (CTI) frameworks to identify the foundational components necessary for creating a framework. Through their analysis, the author(s) identified three primary components: the CTI data collector, the analyzing medium, and an information platform. This analysis will prove valuable for our project when identifying critical components we must include for our stake holders' implementations to be successful.
 4. Methodological Framework to Collect, Process, Analyze and Visualize Cyber Threat Intelligence Data
    - **DOI**: 10.3390/app12031205
    - **URL**: https://www.mdpi.com/2076-3417/12/3/1205
    - **Citation**: 
      - Borges Amaro, L. J., Percilio Azevedo, B. W., Lopes de Mendonca, F. L., Giozza, W. F., Albuquerque, R. de, & García Villalba, L. J. (2022). Methodological framework to collect, process, analyze and visualize cyber threat intelligence data. Applied Sciences, 12(3), 1205. https://doi.org/10.3390/app12031205 
    - **Relevance**:
-     - 
+     - This paper evaluates current Cyber Threat Intelligence trends and prior works to identify better ways of converting intelligence data into actionable intelligence by creating an 8-step CTI model. In addition to a 6 step model they found, they implemented Visualization and Analysis to their model to enhance the comprehensibility and usability of cyber threat intelligence. The findings of This paper could be valuable when writing our recommendations to identify suitable sources of threat intelligence, processes, and tooling.
 5. An introduction to threat intelligence
    - **URL**: https://www.ncsc.gov.uk/files/An-introduction-to-threat-intelligence.pdf 
    - **Citation**: 
