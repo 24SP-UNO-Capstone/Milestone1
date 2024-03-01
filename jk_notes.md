@@ -14,3 +14,12 @@ highly academic and uses software to build datasets based on inputs.  may not be
 https://arxiv.org/abs/2103.03530
 A bit outdated, but was updated in Fall 2023.  Brings up some good points about addressing "strategic, operational, and tactical" intelligence.  Also points out pitfalls of existing CTI work, namely: avoiding ambiguity, ensuring proper terminology use, and proper linkage of relationships for complex topics.
 
+
+
+
+2-19-24 meeting notes
+
+evaluation strategy missing in methodology
+	dangers:  our needs may not align with stakeholder needs. often we solve a problem for ourselves, not them.
+	how can we get authentic feedback?
+	"bubble down to top level personas"?

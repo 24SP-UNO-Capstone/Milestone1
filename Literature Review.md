@@ -70,16 +70,17 @@
    - **URL**: https://www.microsoft.com/en-us/security/blog/2021/06/22/strategies-tools-and-frameworks-for-building-an-effective-threat-intelligence-team/
    - **Citation**:
      - Nickels, K., & Godyla, N. (2023, May 16). Strategies, tools, and frameworks for building an effective threat intelligence team. Microsoft Security Blog. https://www.microsoft.com/en-us/security/blog/2021/06/22/strategies-tools-and-frameworks-for-building-an-effective-threat-intelligence-team/ 
-   - **Relevance**: 
+   - **Relevance**:
+    - A good source write-up with guidance on creating a CTI framework.  Brings up some good ideas to keep in mind when creating a framework: 
      - "Threat modeling is the intersection of what an organization has that an adversary might target."   
-     - "If teams focus on all threats, they’re going to get burnt out. Instead, ask, “What does our organization have that adversaries might want?”"
+     - "If teams focus on all threats, they’re going to get burnt out. Instead, ask, “What does our organization have that adversaries might want?”"  Basically we need to boil down the threats to something that is realistic and build a defense based on that.  No one can account for every possible threat in the world.
 
 13. TINKER: A framework for Open source Cyberthreat Intelligence
    - **URL**: https://arxiv.org/abs/2102.05571
    - **Citation**:
      - Rastogi, N., Dutta, S., Zaki, M. J., Gittens, A., & Aggarwal, C. (2021). TINKER: A framework for Open source Cyberthreat Intelligence. arXiv. https://doi.org/10.48550/arXiv.2102.05571 
    - **Relevance**: 
-     - highly academic and uses software to build datasets based on inputs.  may not be useful.   
+     - This is a highly academic paper and uses software to build datasets based on inputs.  It may not be useful to our project, but is a good example of a more homegrown CTI framework.   
 
 14. Cyber Threat Intelligence Model: An evaluation of taxonomies, sharing standards, and ontologies within Cyber Threat Intelligence
    - **URL**: https://arxiv.org/abs/2103.03530
