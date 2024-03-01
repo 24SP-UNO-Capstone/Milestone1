@@ -24,6 +24,9 @@ Keys to Our Framework:
 - Mitre ATT&CK Framework
 - STIX & TAXII
 
+Model:
+
+
 Stake Holder Data and Findings:
 - A Survey on the Cyber Security of Small-to-Medium Businesses: Challenges, Research Focus and Recommendations
   - **URL**: https://ieeexplore.ieee.org/document/9853515
