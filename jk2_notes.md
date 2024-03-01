@@ -14,3 +14,48 @@
   - https://doi.org/10.3390/app12031205
   - https://www.mdpi.com/2076-3417/12/3/1205
   - Borges Amaro, L. J., Percilio Azevedo, B. W., Lopes de Mendonca, F. L., Giozza, W. F., Albuquerque, R. de, & García Villalba, L. J. (2022). Methodological framework to collect, process, analyze and visualize cyber threat intelligence data. Applied Sciences, 12(3), 1205. https://doi.org/10.3390/app12031205 
+
+
+## M2
+
+Keys to Our Framework:
+- The Intelligence Life Cycle
+- The Diamond Model
+- Mitre ATT&CK Framework
+- STIX & TAXII
+
+Stake Holder Data and Findings:
+- A Survey on the Cyber Security of Small-to-Medium Businesses: Challenges, Research Focus and Recommendations
+  - **URL**: https://ieeexplore.ieee.org/document/9853515
+
+- Standardizing Cyber Threat Intelligence Information with the Structured Threat Information eXpression (STIX™)
+  - **URL**: 
+    - http://stixproject.github.io/about/STIX_Whitepaper_v1.1.pdf
+  - **Citation**:
+    - Barnum, S. (2014, February 20). Standardizing Cyber Threat Intelligence Information with the Structured Threat Information eXpression (STIXTM). STIX Whitepaper. https://stixproject.github.io/about/STIX_Whitepaper_v1.1.pdf 
+  - **Relevance**:
+    - STIX was created to bridge the gap between security solutions and CTI sharing organizations to provide hi-fidelity CTI across organizations, communities, and product/service barriers. 
+- Cyber Threat Intelligence Mining for Proactive Cybersecurity Defense: A Survey and New Perspectives
+  - **URL**: https://ieeexplore.ieee.org/abstract/document/10117505
+  - **Citation**:
+    - Sun, N., Ding, M., Jiang, J., Xu, W., Mo, X., Tai, Y., & Zhang, J. (2023). Cyber Threat Intelligence Mining for Proactive Cybersecurity defense: A survey and new perspectives. IEEE Communications Surveys & Tutorials, 25(3), 1748–1774. https://doi.org/10.1109/comst.2023.3273282
+  - **Relevance**: 
+    - 
+- A Comparative Study on Cyber Threat Intelligence: The Security Incident Response Perspective
+  - **URL**: https://ieeexplore.ieee.org/abstract/document/9557787
+  - **Citation**: 
+    - Schlette, D., Caselli, M., & Pernul, G. (2021). A comparative study on Cyber Threat Intelligence: The security incident response perspective. IEEE Communications Surveys & Tutorials, 23(4), 2525–2556. https://doi.org/10.1109/comst.2021.3117338 
+  - **Relevance**: 
+    - 
+https://github.com/OpenCTI-Platform/opencti?tab=readme-ov-file
+
+https://link.springer.com/article/10.1007/s41870-019-00280-3
+
+https://www.threat-intelligence.eu/standards/
+
+https://usnwc.libguides.com/c.php?g=494120&p=3381427
+
+https://www.tandfonline.com/doi/abs/10.1080/02684520601046291
+  - https://www.tandfonline.com/doi/pdf/10.1080/08850608608435033
+
+
