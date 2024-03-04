@@ -4,7 +4,7 @@
 ### Milestones
 - [Pitch](.\README.md)
 - [Milestone 1](https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/Milestone1.md)
-- [Milestone 2](https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/Milestone2.md))
+- [Milestone 2](https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/Milestone2.md)
 - [Milestone 3](#risk-list)
 
 
