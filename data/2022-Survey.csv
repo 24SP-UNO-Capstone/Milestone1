@@ -1,0 +1,520 @@
+industry,orgSize,intSecStaff,intSecStaff2,intJuniorStaff,intGenStaff,intMonStaff,intIRStaff,intTIStaff,budget
+Technology,"More than 100,000",Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than $48M USD
+Technology,101 to 500,,11 to 25,Less than 1 ,2 to 10,2 to 10,Less than 1 ,Less than 1 ,"Less than $100,000 USD"
+Government,"50,001 to 100,000",26 to 100,2 to 10,2 to 10,2 to 10,Less than 1 ,Less than 1 ,2 to 10,$4 million to $8 million USD
+Hospitality,"15,001 to 50,000",2 to 10,Less than 1 (part-time),,2 to 10,,,,"250,001 to $500,000 USD"
+Technology,Fewer than 100,1,Less than 1 (part-time),Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,"Less than $100,000 USD"
+Banking and finance,"1,001 to 2,000",,2 to 10,2 to 10,1,Less than 1 ,Less than 1 ,Less than 1 ,$4 million to $8 million USD
+Insurance,"5,001 to 10,000",2 to 10,2 to 10,,2 to 10,Less than 1 ,Less than 1 ,Less than 1 ,
+Retail,Fewer than 100,,,,,,,,"Less than $100,000 USD"
+Cybersecurity,101 to 500,,26 to 100,1,11 to 25,2 to 10,2 to 10,2 to 10,$2 million to $4 million USD
+Cybersecurity,Fewer than 100,,,,,,,,
+Healthcare,"5,001 to 10,000",,2 to 10,1,2 to 10,2 to 10,1,1,$2 million to $4 million USD
+Retail,"501 to 1,000",2 to 10,Less than 1 (part-time),Less than 1 ,1,1,1,1,"Less than $100,000 USD"
+Technology,"501 to 1,000",2 to 10,2 to 10,,,2 to 10,2 to 10,2 to 10,$2 million to $4 million USD
+Technology,"1,001 to 2,000",2 to 10,2 to 10,1,1,2 to 10,2 to 10,1,$1 million to $2 million USD
+Cybersecurity,Fewer than 100,,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"250,001 to $500,000 USD"
+Manufacturing,"15,001 to 50,000",2 to 10,1,1,2 to 10,Less than 1 ,Less than 1 ,Less than 1 ,$1 million to $2 million USD
+Government,101 to 500,2 to 10,1,2 to 10,Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,"250,001 to $500,000 USD"
+Telecommunications/ISP,Fewer than 100,2 to 10,2 to 10,2 to 10,1,1,1,1,"Less than $100,000 USD"
+Government,"50,001 to 100,000",11 to 25,2 to 10,2 to 10,1,1,2 to 10,1,"Less than $100,000 USD"
+Government,101 to 500,,,,,,,,
+Banking and finance,"501 to 1,000",,,,,,,,
+Retail,Fewer than 100,,,,,,,,
+Healthcare,101 to 500,,,,,,,,
+Other (Please specify),"50,001 to 100,000",,,,,,,,
+Healthcare,"5,001 to 10,000",,,,,,,,
+Manufacturing,"50,001 to 100,000",,,,,,,,
+Government,"1,001 to 2,000",,,,,,,,
+Technology,Fewer than 100,,,,,,,,
+Manufacturing,"2,001 to 5,000",,,,,,,,
+Cybersecurity,"5,001 to 10,000",,,,,,,,
+Other (Please specify),"15,001 to 50,000",,,,,,,,
+Utilities,"50,001 to 100,000",,,,,,,,
+Telecommunications/ISP,"More than 100,000",,,,,,,,
+Cybersecurity,101 to 500,11 to 25,11 to 25,11 to 25,26 to 100,26 to 100,11 to 25,11 to 25,"$500,001 to $750,000 USD"
+Government,"More than 100,000",,,,,,,,
+Transportation,"501 to 1,000",,,,,,,,
+Banking and finance,101 to 500,,2 to 10,1,1,1,Less than 1 ,1,"Less than $100,000 USD"
+Cybersecurity,"1,001 to 2,000",,,,,,,,
+Government,"1,001 to 2,000",,Less than 1 (part-time),Less than 1 ,2 to 10,1,1,1,
+Education,"5,001 to 10,000",1,1,1,1,1,1,1,
+Technology,Fewer than 100,,Less than 1 (part-time),,1,Less than 1 ,Less than 1 ,Less than 1 ,"Less than $100,000 USD"
+Other (Please specify),101 to 500,,,,,,,,
+Insurance,"5,001 to 10,000",11 to 25,11 to 25,11 to 25,2 to 10,11 to 25,11 to 25,1,$4 million to $8 million USD
+Other (Please specify),"5,001 to 10,000",,,,,,,,
+Cybersecurity,Fewer than 100,,,,,,,,
+Insurance,"1,001 to 2,000",,,,,,,,
+Education,"2,001 to 5,000",,,,,,,,
+Education,"2,001 to 5,000",,,,,,2 to 10,2 to 10,
+Banking and finance,"501 to 1,000",,,,,,,,
+Other (Please specify),101 to 500,,,,,,,,
+Other (Please specify),"More than 100,000",Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than $48M USD
+Other (Please specify),"501 to 1,000",Less than 1 (part-time),,,,Less than 1 ,Less than 1 ,Less than 1 ,$1 million to $2 million USD
+Retail,"10,001 to 15,000",,1,1,1,1,1,1,"$750,001 to $1,000,000 USD"
+Banking and finance,"More than 100,000",,,,,,,,
+Manufacturing,101 to 500,,,,,,,,
+Banking and finance,"2,001 to 5,000",,,,,,,,
+Banking and finance,"15,001 to 50,000",,,,,,,,
+Government,101 to 500,2 to 10,2 to 10,1,2 to 10,,,,
+Technology,Fewer than 100,,,,,,,,
+Government,"1,001 to 2,000",,,,,,,,
+Education,101 to 500,11 to 25,101 to 1000,Greater than 1000,,,,,"$100,001 to 250,000 USD"
+Government,"501 to 1,000",,,,,,,,
+Government,101 to 500,,,,,,,,
+Education,101 to 500,,,,,,,,
+Cybersecurity,101 to 500,,,,,,,,
+Technology,"1,001 to 2,000",2 to 10,2 to 10,1,2 to 10,2 to 10,2 to 10,2 to 10,"$750,001 to $1,000,000 USD"
+Healthcare,"More than 100,000",,,,,,,,
+Government,"2,001 to 5,000",2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,
+Government,"15,001 to 50,000",1,11 to 25,2 to 10,,Less than 1 ,1,1,Greater than $48M USD
+Cybersecurity,"15,001 to 50,000",,,,,,,,
+Technology,Fewer than 100,Less than 1 (part-time),Less than 1 (part-time),Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,"Less than $100,000 USD"
+Manufacturing,"10,001 to 15,000",2 to 10,2 to 10,,,,,,
+Insurance,"2,001 to 5,000",,2 to 10,,2 to 10,2 to 10,2 to 10,2 to 10,
+Healthcare,"1,001 to 2,000",1,1,Less than 1 ,1,,,,
+Banking and finance,"2,001 to 5,000",11 to 25,11 to 25,Less than 1 ,2 to 10,2 to 10,2 to 10,2 to 10,
+Cybersecurity,Fewer than 100,11 to 25,2 to 10,2 to 10,2 to 10,11 to 25,2 to 10,1,"$100,001 to 250,000 USD"
+Other (Please specify),101 to 500,2 to 10,2 to 10,1,2 to 10,2 to 10,2 to 10,2 to 10,
+Insurance,"15,001 to 50,000",26 to 100,11 to 25,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,$16 million to $48 million USD
+Manufacturing,"More than 100,000",2 to 10,2 to 10,,2 to 10,2 to 10,2 to 10,2 to 10,
+Manufacturing,"2,001 to 5,000",2 to 10,2 to 10,1,2 to 10,1,Less than 1 ,Less than 1 ,$2 million to $4 million USD
+Banking and finance,101 to 500,,Less than 1 (part-time),,Less than 1 ,,,,$2 million to $4 million USD
+Banking and finance,"1,001 to 2,000",,,Less than 1 ,,2 to 10,2 to 10,2 to 10,
+Education,"15,001 to 50,000",101 to 1000,,,,,,,
+Manufacturing,"15,001 to 50,000",11 to 25,1,1,2 to 10,2 to 10,2 to 10,2 to 10,$1 million to $2 million USD
+Education,"5,001 to 10,000",2 to 10,2 to 10,1,2 to 10,1,1,1,"$500,001 to $750,000 USD"
+Healthcare,"15,001 to 50,000",2 to 10,1,Less than 1 ,2 to 10,2 to 10,Less than 1 ,Less than 1 ,"$750,001 to $1,000,000 USD"
+Healthcare,"10,001 to 15,000",26 to 100,26 to 100,2 to 10,2 to 10,11 to 25,2 to 10,11 to 25,$16 million to $48 million USD
+Technology,"5,001 to 10,000",,,,,,,,
+Cybersecurity,"5,001 to 10,000",101 to 1000,26 to 100,11 to 25,101 to 1000,26 to 100,26 to 100,26 to 100,
+Technology,"2,001 to 5,000",,26 to 100,,2 to 10,11 to 25,11 to 25,2 to 10,
+Banking and finance,101 to 500,2 to 10,1,,,1,1,2 to 10,"Less than $100,000 USD"
+Cybersecurity,"10,001 to 15,000",,,,,,,,
+Telecommunications/ISP,"More than 100,000",101 to 1000,11 to 25,2 to 10,11 to 25,2 to 10,2 to 10,2 to 10,
+Technology,"50,001 to 100,000",,,,,,,,
+Banking and finance,"15,001 to 50,000",,11 to 25,Less than 1 ,Less than 1 ,1,1,1,"$100,001 to 250,000 USD"
+Technology,"2,001 to 5,000",,,,,,,,
+Manufacturing,"5,001 to 10,000",,,,,,,,
+Government,"2,001 to 5,000",,,,,,,,
+Manufacturing,"More than 100,000",,,,,,,,
+Banking and finance,"More than 100,000",,26 to 100,,2 to 10,2 to 10,,2 to 10,
+Healthcare,"5,001 to 10,000",,,,,,,,
+Government,"15,001 to 50,000",,,,,,,,
+Government,"More than 100,000",,101 to 1000,11 to 25,Less than 1 ,26 to 100,2 to 10,2 to 10,"$100,001 to 250,000 USD"
+Government,"2,001 to 5,000",,,,,,,,
+Manufacturing,"More than 100,000",,,,,,,,
+Banking and finance,"501 to 1,000",,,,,,,,
+Manufacturing,"15,001 to 50,000",,,,,,,,
+Healthcare,"15,001 to 50,000",,,,,,,,
+Government,"More than 100,000",,,,,,,,
+Telecommunications/ISP,101 to 500,,,,,,,,
+Technology,Fewer than 100,,,,,,,,
+Technology,"More than 100,000",,,,,,,,
+Utilities,"2,001 to 5,000",,,,,,,,
+Technology,Fewer than 100,,,,,,,,
+Government,"5,001 to 10,000",,,,,,,,
+Manufacturing,"More than 100,000",,,,,,,,
+Other (Please specify),"15,001 to 50,000",,,,,,,,
+Insurance,101 to 500,,,,,,,,
+Utilities,101 to 500,,,,,,,,
+Government,Fewer than 100,,,,,,,,
+Education,"2,001 to 5,000",,,,,,,,
+Cybersecurity,101 to 500,,,,,,,,
+Government,Fewer than 100,,,,,,,,
+Technology,"More than 100,000",,,,,,,,
+Other (Please specify),101 to 500,,,,,,,,
+Transportation,"5,001 to 10,000",,,,,,,,
+Insurance,101 to 500,,,,,,,,
+Cybersecurity,"5,001 to 10,000",,,,,,,,
+Technology,"5,001 to 10,000",,,,,,,,
+Utilities,Fewer than 100,2 to 10,1,Less than 1 ,1,1,1,1,"$100,001 to 250,000 USD"
+Insurance,"15,001 to 50,000",,,,,,,,
+Cybersecurity,"501 to 1,000",,,,,,,,
+Education,"5,001 to 10,000",2 to 10,Less than 1 (part-time),Less than 1 ,2 to 10,Less than 1 ,Less than 1 ,Less than 1 ,
+Technology,101 to 500,,,,,,,,
+Healthcare,"More than 100,000",,,,,,,,
+Telecommunications/ISP,"10,001 to 15,000",11 to 25,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"$500,001 to $750,000 USD"
+Technology,"More than 100,000",,,,,,,,
+Banking and finance,"2,001 to 5,000",,,,,,,,
+Technology,Fewer than 100,2 to 10,,2 to 10,,2 to 10,2 to 10,2 to 10,
+Banking and finance,"5,001 to 10,000",26 to 100,,11 to 25,11 to 25,,,,Greater than $48M USD
+Banking and finance,"501 to 1,000",,,,,,,,
+Banking and finance,"1,001 to 2,000",,11 to 25,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,
+Technology,"More than 100,000",,,,,,,,
+Government,"501 to 1,000",,,,,,,,"$100,001 to 250,000 USD"
+Banking and finance,"5,001 to 10,000",11 to 25,11 to 25,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,
+Banking and finance,"1,001 to 2,000",,1,1,2 to 10,2 to 10,2 to 10,2 to 10,"250,001 to $500,000 USD"
+Cybersecurity,"1,001 to 2,000",,,,,,,,
+Manufacturing,"2,001 to 5,000",,,,,,,,
+Other (Please specify),"More than 100,000",,,,,,,,
+Government,Fewer than 100,,,,,,,,
+Cybersecurity,"5,001 to 10,000",,,,,,,,
+Banking and finance,"15,001 to 50,000",,,,,,,,
+Healthcare,"50,001 to 100,000",11 to 25,1,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,
+Utilities,"1,001 to 2,000",2 to 10,,,1,1,,,
+Banking and finance,"More than 100,000",101 to 1000,11 to 25,26 to 100,11 to 25,101 to 1000,26 to 100,11 to 25,$16 million to $48 million USD
+Technology,101 to 500,2 to 10,2 to 10,1,2 to 10,2 to 10,2 to 10,2 to 10,
+Other (Please specify),101 to 500,11 to 25,,1,2 to 10,2 to 10,2 to 10,2 to 10,"Less than $100,000 USD"
+Other (Please specify),"2,001 to 5,000",,,,,,,,"$100,001 to 250,000 USD"
+Cybersecurity,Fewer than 100,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"Less than $100,000 USD"
+Banking and finance,Fewer than 100,2 to 10,1,2 to 10,2 to 10,Less than 1 ,Less than 1 ,Less than 1 ,"$100,001 to 250,000 USD"
+Government,"501 to 1,000",2 to 10,11 to 25,2 to 10,26 to 100,26 to 100,11 to 25,101 to 1000,$8 million to $16 million USD
+Other (Please specify),101 to 500,,,,1,,,,
+Banking and finance,101 to 500,2 to 10,2 to 10,Less than 1 ,2 to 10,2 to 10,2 to 10,Less than 1 ,"$100,001 to 250,000 USD"
+Cybersecurity,Fewer than 100,,2 to 10,1,1,,,,"Less than $100,000 USD"
+Technology,Fewer than 100,,,,,,,,
+Banking and finance,"501 to 1,000",1,2 to 10,Less than 1 ,,2 to 10,1,1,"Less than $100,000 USD"
+Education,"2,001 to 5,000",1,,,1,,,,"Less than $100,000 USD"
+Cybersecurity,101 to 500,11 to 25,,11 to 25,2 to 10,2 to 10,2 to 10,2 to 10,
+Cybersecurity,Fewer than 100,,,,,,,,
+Cybersecurity,"501 to 1,000",,,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,
+Telecommunications/ISP,"2,001 to 5,000",,1,Less than 1 ,Less than 1 ,2 to 10,1,Less than 1 ,"Less than $100,000 USD"
+Government,"5,001 to 10,000",2 to 10,2 to 10,Less than 1 ,2 to 10,Less than 1 ,Less than 1 ,Less than 1 ,"Less than $100,000 USD"
+Banking and finance,"5,001 to 10,000",2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"$500,001 to $750,000 USD"
+Technology,Fewer than 100,2 to 10,Less than 1 (part-time),2 to 10,2 to 10,Less than 1 ,Less than 1 ,Less than 1 ,"Less than $100,000 USD"
+Transportation,"501 to 1,000",,,,,,,,
+Banking and finance,101 to 500,,1,Less than 1 ,1,Less than 1 ,Less than 1 ,Less than 1 ,
+Cybersecurity,"501 to 1,000",26 to 100,11 to 25,,,,,,$2 million to $4 million USD
+Banking and finance,"More than 100,000",26 to 100,11 to 25,2 to 10,11 to 25,2 to 10,2 to 10,2 to 10,
+Banking and finance,"More than 100,000",101 to 1000,26 to 100,101 to 1000,101 to 1000,101 to 1000,,11 to 25,
+Technology,Fewer than 100,1,,Less than 1 ,1,Less than 1 ,Less than 1 ,Less than 1 ,
+Cybersecurity,Fewer than 100,11 to 25,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"250,001 to $500,000 USD"
+Banking and finance,"5,001 to 10,000",2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"250,001 to $500,000 USD"
+Technology,Fewer than 100,26 to 100,101 to 1000,11 to 25,11 to 25,2 to 10,26 to 100,101 to 1000,"$100,001 to 250,000 USD"
+Nonprofit/Association,Fewer than 100,,Less than 1 (part-time),Less than 1 ,1,Less than 1 ,Less than 1 ,Less than 1 ,
+Cybersecurity,Fewer than 100,1,1,1,1,1,1,1,"$500,001 to $750,000 USD"
+Cybersecurity,"1,001 to 2,000",101 to 1000,26 to 100,26 to 100,26 to 100,26 to 100,11 to 25,26 to 100,
+Technology,"More than 100,000",Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than $48M USD
+Banking and finance,Fewer than 100,1,1,1,1,1,1,1,"250,001 to $500,000 USD"
+Banking and finance,"More than 100,000",,26 to 100,,,,,,
+Banking and finance,101 to 500,,,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"$100,001 to 250,000 USD"
+Education,"501 to 1,000",,,,2 to 10,,,,"Less than $100,000 USD"
+Government,101 to 500,2 to 10,1,2 to 10,2 to 10,Less than 1 ,Less than 1 ,Less than 1 ,"Less than $100,000 USD"
+Government,101 to 500,,,,,,,,
+Technology,Fewer than 100,Less than 1 (part-time),,Less than 1 ,,,,,
+Technology,Fewer than 100,11 to 25,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"Less than $100,000 USD"
+Retail,"10,001 to 15,000",2 to 10,2 to 10,1,1,1,2 to 10,1,"Less than $100,000 USD"
+Government,101 to 500,11 to 25,11 to 25,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"$500,001 to $750,000 USD"
+Banking and finance,"501 to 1,000",101 to 1000,11 to 25,11 to 25,2 to 10,11 to 25,11 to 25,11 to 25,"$100,001 to 250,000 USD"
+Cybersecurity,"5,001 to 10,000",101 to 1000,101 to 1000,26 to 100,11 to 25,26 to 100,11 to 25,11 to 25,"$100,001 to 250,000 USD"
+Manufacturing,"2,001 to 5,000",2 to 10,2 to 10,,,2 to 10,2 to 10,2 to 10,
+Banking and finance,"10,001 to 15,000",26 to 100,11 to 25,2 to 10,2 to 10,2 to 10,1,1,"250,001 to $500,000 USD"
+Retail,101 to 500,2 to 10,11 to 25,2 to 10,11 to 25,26 to 100,26 to 100,11 to 25,"$100,001 to 250,000 USD"
+Technology,101 to 500,,,11 to 25,26 to 100,2 to 10,2 to 10,11 to 25,
+Cybersecurity,"501 to 1,000",2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,
+Cybersecurity,Fewer than 100,2 to 10,2 to 10,1,2 to 10,2 to 10,2 to 10,1,"Less than $100,000 USD"
+Manufacturing,"2,001 to 5,000",,,2 to 10,2 to 10,1,2 to 10,2 to 10,
+Banking and finance,"501 to 1,000",26 to 100,11 to 25,2 to 10,11 to 25,2 to 10,2 to 10,1,"Less than $100,000 USD"
+Banking and finance,"501 to 1,000",,,1,2 to 10,1,2 to 10,1,$8 million to $16 million USD
+Other (Please specify),"5,001 to 10,000",11 to 25,2 to 10,Less than 1 ,2 to 10,2 to 10,2 to 10,1,$1 million to $2 million USD
+Education,"501 to 1,000",26 to 100,101 to 1000,2 to 10,26 to 100,11 to 25,11 to 25,26 to 100,"$500,001 to $750,000 USD"
+Education,"2,001 to 5,000",,101 to 1000,Less than 1 ,1,Less than 1 ,1,Less than 1 ,$2 million to $4 million USD
+Technology,101 to 500,26 to 100,11 to 25,11 to 25,2 to 10,2 to 10,2 to 10,11 to 25,$4 million to $8 million USD
+Banking and finance,"5,001 to 10,000",2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,Less than 1 ,Less than 1 ,"250,001 to $500,000 USD"
+Education,"1,001 to 2,000",2 to 10,2 to 10,Less than 1 ,2 to 10,Less than 1 ,Less than 1 ,Less than 1 ,
+Cybersecurity,101 to 500,11 to 25,11 to 25,2 to 10,2 to 10,11 to 25,2 to 10,11 to 25,"250,001 to $500,000 USD"
+Media,"5,001 to 10,000",2 to 10,,,,,,,
+Retail,"5,001 to 10,000",,,,,,,,$1 million to $2 million USD
+Healthcare,"More than 100,000",2 to 10,2 to 10,Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,
+Cybersecurity,"501 to 1,000",26 to 100,11 to 25,2 to 10,26 to 100,101 to 1000,11 to 25,26 to 100,
+Banking and finance,"50,001 to 100,000",Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,Greater than 1000,
+Government,"2,001 to 5,000",2 to 10,2 to 10,1,1,1,,1,"250,001 to $500,000 USD"
+Technology,101 to 500,101 to 1000,11 to 25,2 to 10,11 to 25,26 to 100,101 to 1000,26 to 100,"$100,001 to 250,000 USD"
+Banking and finance,101 to 500,26 to 100,11 to 25,26 to 100,11 to 25,2 to 10,1,2 to 10,"Less than $100,000 USD"
+Retail,"5,001 to 10,000",2 to 10,1,,2 to 10,Less than 1 ,Less than 1 ,Less than 1 ,"$750,001 to $1,000,000 USD"
+Transportation,Fewer than 100,11 to 25,2 to 10,2 to 10,11 to 25,11 to 25,2 to 10,2 to 10,"250,001 to $500,000 USD"
+Technology,101 to 500,2 to 10,11 to 25,1,2 to 10,2 to 10,1,2 to 10,"$100,001 to 250,000 USD"
+Technology,"501 to 1,000",26 to 100,11 to 25,26 to 100,101 to 1000,26 to 100,11 to 25,26 to 100,
+Telecommunications/ISP,"More than 100,000",,,,,2 to 10,2 to 10,,
+Technology,101 to 500,101 to 1000,26 to 100,26 to 100,26 to 100,11 to 25,2 to 10,11 to 25,"$100,001 to 250,000 USD"
+Cybersecurity,"More than 100,000",,,,,,,,
+Utilities,101 to 500,,,Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,"Less than $100,000 USD"
+Cybersecurity,"5,001 to 10,000",,,,,,,,
+Technology,"15,001 to 50,000",,,,,,,,"Less than $100,000 USD"
+Cybersecurity,Fewer than 100,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"Less than $100,000 USD"
+Banking and finance,"5,001 to 10,000",101 to 1000,11 to 25,11 to 25,2 to 10,11 to 25,11 to 25,2 to 10,"$100,001 to 250,000 USD"
+Other (Please specify),"2,001 to 5,000",,,,,,,,
+Media,Fewer than 100,2 to 10,11 to 25,Less than 1 ,1,2 to 10,11 to 25,11 to 25,"$500,001 to $750,000 USD"
+Utilities,"501 to 1,000",2 to 10,1,1,1,Less than 1 ,1,Less than 1 ,$1 million to $2 million USD
+Education,"501 to 1,000",1,26 to 100,11 to 25,2 to 10,2 to 10,1,2 to 10,"250,001 to $500,000 USD"
+Other (Please specify),"15,001 to 50,000",,,,,,,,
+Cybersecurity,"1,001 to 2,000",,,,,,,,
+Media,"2,001 to 5,000",26 to 100,2 to 10,11 to 25,2 to 10,11 to 25,2 to 10,11 to 25,
+Cybersecurity,"10,001 to 15,000",,,,,,,,
+Utilities,"10,001 to 15,000",,,,,,,,
+Utilities,"5,001 to 10,000",,,,,,,,
+Technology,101 to 500,,,,,,,,
+Telecommunications/ISP,101 to 500,,,,,,,,
+Healthcare,Fewer than 100,,,,,,,,
+Technology,101 to 500,,,,,,,,
+Banking and finance,"15,001 to 50,000",,,,,,,,
+Utilities,"2,001 to 5,000",,,,,,,,
+Utilities,"10,001 to 15,000",,,,,,,,
+Technology,"1,001 to 2,000",,,,,,,,
+Transportation,101 to 500,,,,,,,,
+Telecommunications/ISP,101 to 500,,,,,,,,
+Telecommunications/ISP,"2,001 to 5,000",,,,,,,,
+Cybersecurity,Fewer than 100,,,,,,,,
+Utilities,"15,001 to 50,000",,,,,,,,
+Technology,"5,001 to 10,000",26 to 100,11 to 25,Less than 1 ,2 to 10,2 to 10,2 to 10,2 to 10,$2 million to $4 million USD
+Transportation,101 to 500,,,,,,,,
+Cybersecurity,"5,001 to 10,000",,,,,,,,
+Cybersecurity,"501 to 1,000",,,,,,,,
+Cybersecurity,Fewer than 100,,,,,,,,
+Hospitality,"2,001 to 5,000",,,,,,,,
+Cybersecurity,"501 to 1,000",,,,,,,,
+Education,"2,001 to 5,000",,,,,,,,
+Healthcare,"501 to 1,000",,,,,,,,
+Transportation,Fewer than 100,1,Less than 1 (part-time),Less than 1 ,1,Less than 1 ,1,Less than 1 ,"$100,001 to 250,000 USD"
+Cybersecurity,Fewer than 100,,,,,,,,
+Education,"501 to 1,000",,,,,,,,
+Government,"More than 100,000",,,,,,,,
+Banking and finance,101 to 500,,,,,,,,
+Banking and finance,"15,001 to 50,000",,,,,,,,
+Manufacturing,"501 to 1,000",,,,,,,,
+Manufacturing,"15,001 to 50,000",,,,,,,,
+Banking and finance,"501 to 1,000",,,,,,,,
+Other (Please specify),"5,001 to 10,000",,,,,,,,
+Retail,Fewer than 100,,,,,,,,
+Banking and finance,"10,001 to 15,000",,,,,,,,
+Banking and finance,"2,001 to 5,000",,,,,,,,
+Government,Fewer than 100,,,,,,,,
+Technology,101 to 500,,,,,,,,
+Insurance,Fewer than 100,,,,,,,,
+Technology,101 to 500,,,,,,,,
+Cybersecurity,Fewer than 100,,,,,,,,
+Technology,Fewer than 100,,,,,,,,
+Cybersecurity,101 to 500,,,,,,,,
+Banking and finance,"1,001 to 2,000",,,,,,,,
+Cybersecurity,Fewer than 100,,,,,,,,
+Technology,"More than 100,000",,,,,,,,
+Retail,"15,001 to 50,000",,,,,,,,
+Technology,"1,001 to 2,000",,,,,,,,
+Utilities,"5,001 to 10,000",,,,,,,,
+Retail,"15,001 to 50,000",,,,,,,,
+Cybersecurity,101 to 500,,,,,,,,
+Technology,"501 to 1,000",,,,,,,,
+Technology,"2,001 to 5,000",,,,,,,,
+Manufacturing,"15,001 to 50,000",,,,,,,,
+Transportation,"More than 100,000",,,,,,,,
+Manufacturing,"501 to 1,000",,,,,,,,
+Education,"501 to 1,000",,,,,,,,
+Government,"10,001 to 15,000",,,,,,,,
+Government,"1,001 to 2,000",,,,,,,,
+Technology,101 to 500,,,,,,,,
+Manufacturing,"15,001 to 50,000",,,,,,,,
+Government,"1,001 to 2,000",,,,,,,,
+Technology,"15,001 to 50,000",,,,,,,,
+Other (Please specify),"More than 100,000",,,,,,,,
+Banking and finance,101 to 500,,,,,,,,
+Telecommunications/ISP,"10,001 to 15,000",,,,,,,,
+Technology,"10,001 to 15,000",,,,,,,,
+Other (Please specify),Fewer than 100,,,,,,,,
+Technology,"More than 100,000",26 to 100,26 to 100,2 to 10,2 to 10,1,2 to 10,2 to 10,$1 million to $2 million USD
+Manufacturing,101 to 500,,,,,,,,
+Education,Fewer than 100,,,Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,
+Technology,"501 to 1,000",,,,,,,,
+Education,"5,001 to 10,000",,,,,,,,
+Cybersecurity,Fewer than 100,,,,,,,,
+Utilities,"2,001 to 5,000",,,,,,,,
+Banking and finance,Fewer than 100,,,,,,,,
+Cybersecurity,Fewer than 100,,,,,,,,
+Other (Please specify),"More than 100,000",,2 to 10,,,,,,
+Banking and finance,101 to 500,,,,,,,,
+Government,101 to 500,,,,,,,,
+Government,101 to 500,,,,,,,,
+Telecommunications/ISP,101 to 500,,,,,,,,
+Insurance,101 to 500,,2 to 10,1,1,Less than 1 ,Less than 1 ,Less than 1 ,
+Technology,Fewer than 100,,,,,,,,
+Technology,"501 to 1,000",,,,,,,,
+Education,"5,001 to 10,000",,,,,,,,
+Other (Please specify),"2,001 to 5,000",,,,,,,,
+Technology,Fewer than 100,,,,,,,,
+Technology,"501 to 1,000",,,,,,,,
+Insurance,"2,001 to 5,000",,,,,,,,
+Government,Fewer than 100,,,,,,,,
+Technology,101 to 500,,,,,,,,
+Government,"10,001 to 15,000",,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"$750,001 to $1,000,000 USD"
+Banking and finance,"50,001 to 100,000",,,,,,,,
+Cybersecurity,"1,001 to 2,000",,,,,,,,
+Technology,"50,001 to 100,000",2 to 10,2 to 10,,2 to 10,,,26 to 100,
+Retail,"5,001 to 10,000",,,,,,,,
+Government,"2,001 to 5,000",,,,,,,,
+Technology,Fewer than 100,,,,,,,,
+Education,"2,001 to 5,000",,,,,,,,
+Banking and finance,"15,001 to 50,000",,,,,,,,
+Banking and finance,"1,001 to 2,000",,,,,,,,
+Cybersecurity,Fewer than 100,,,,,,,,
+Technology,"50,001 to 100,000",,,,,,,,
+Manufacturing,"1,001 to 2,000",,,,,,,,
+Technology,"501 to 1,000",101 to 1000,26 to 100,2 to 10,11 to 25,26 to 100,11 to 25,26 to 100,"Less than $100,000 USD"
+Cybersecurity,"5,001 to 10,000",101 to 1000,26 to 100,26 to 100,11 to 25,2 to 10,1,2 to 10,"$100,001 to 250,000 USD"
+Technology,Fewer than 100,,,,,,,,
+Government,"501 to 1,000",,,,,,,,
+Other (Please specify),"2,001 to 5,000",26 to 100,26 to 100,2 to 10,11 to 25,11 to 25,2 to 10,2 to 10,$2 million to $4 million USD
+Technology,101 to 500,,,,,,,,
+Government,"2,001 to 5,000",,,,,,,,
+Education,"5,001 to 10,000",,,,,,,,
+Cybersecurity,"501 to 1,000",,,,,,,,
+Government,"1,001 to 2,000",,,,,,,,
+Technology,"10,001 to 15,000",,,,,,,,
+Other (Please specify),Fewer than 100,,,,,,,,
+Banking and finance,101 to 500,,,,,,,,
+Healthcare,Fewer than 100,,,,,,,,
+Healthcare,"501 to 1,000",,,,,,,,
+Banking and finance,101 to 500,1,2 to 10,1,2 to 10,11 to 25,26 to 100,11 to 25,"250,001 to $500,000 USD"
+Healthcare,"501 to 1,000",1,2 to 10,11 to 25,2 to 10,26 to 100,11 to 25,26 to 100,"$500,001 to $750,000 USD"
+Other (Please specify),"15,001 to 50,000",,,,,,,,
+Telecommunications/ISP,"5,001 to 10,000",,,,,,,,
+Cybersecurity,101 to 500,,,,,,,,
+Technology,Fewer than 100,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"Less than $100,000 USD"
+Education,"5,001 to 10,000",,,,,,,,
+Manufacturing,"5,001 to 10,000",,,,,,,,
+Technology,"501 to 1,000",,,,,,,,
+Utilities,101 to 500,26 to 100,,11 to 25,,,,,"250,001 to $500,000 USD"
+Cybersecurity,"501 to 1,000",,,,,,,,
+Cybersecurity,"10,001 to 15,000",,,,,,,,$1 million to $2 million USD
+Technology,"1,001 to 2,000",26 to 100,11 to 25,101 to 1000,26 to 100,11 to 25,2 to 10,1,"Less than $100,000 USD"
+Banking and finance,"501 to 1,000",,,,,,,,
+Banking and finance,"More than 100,000",,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"$500,001 to $750,000 USD"
+Education,101 to 500,2 to 10,101 to 1000,2 to 10,101 to 1000,11 to 25,11 to 25,1,"$750,001 to $1,000,000 USD"
+Telecommunications/ISP,"More than 100,000",,,,,,,,
+Utilities,"More than 100,000",26 to 100,101 to 1000,26 to 100,101 to 1000,101 to 1000,101 to 1000,101 to 1000,Greater than $48M USD
+Utilities,"15,001 to 50,000",,,,,,,,
+Technology,Fewer than 100,,,,,,,,
+Cybersecurity,"501 to 1,000",,,,,,,,"Less than $100,000 USD"
+Banking and finance,101 to 500,,,,,,,,
+Healthcare,"50,001 to 100,000",,,,,,,,
+Government,"1,001 to 2,000",,,,,,,,
+Government,Fewer than 100,,,,,,,,
+Technology,"5,001 to 10,000",,,,,,,,
+Manufacturing,Fewer than 100,,,,,,,,
+Technology,Fewer than 100,,,,,,,,
+Education,101 to 500,,,,,,,,
+Manufacturing,"15,001 to 50,000",,,,,,,,
+Utilities,"5,001 to 10,000",,,,,,,,
+Cybersecurity,"501 to 1,000",,,,,,,,
+Banking and finance,"15,001 to 50,000",,,,,,,,
+Technology,"5,001 to 10,000",,,,,,,,
+Cybersecurity,"2,001 to 5,000",,,,,,,,
+Utilities,"1,001 to 2,000",,,,,,,,
+Cybersecurity,Fewer than 100,,11 to 25,2 to 10,11 to 25,11 to 25,1,,"$100,001 to 250,000 USD"
+Government,"5,001 to 10,000",,,,26 to 100,2 to 10,2 to 10,2 to 10,$4 million to $8 million USD
+Cybersecurity,"1,001 to 2,000",,,101 to 1000,101 to 1000,101 to 1000,101 to 1000,101 to 1000,
+Cybersecurity,Fewer than 100,11 to 25,11 to 25,2 to 10,11 to 25,2 to 10,2 to 10,11 to 25,"Less than $100,000 USD"
+Cybersecurity,Fewer than 100,2 to 10,2 to 10,Less than 1 ,2 to 10,1,1,Less than 1 ,
+Media,101 to 500,26 to 100,11 to 25,11 to 25,26 to 100,11 to 25,11 to 25,11 to 25,$1 million to $2 million USD
+Other (Please specify),"More than 100,000",,,,,,,,
+Manufacturing,"1,001 to 2,000",,,,,,,,
+Retail,"2,001 to 5,000",26 to 100,101 to 1000,Greater than 1000,101 to 1000,Greater than 1000,Greater than 1000,101 to 1000,"250,001 to $500,000 USD"
+Retail,Fewer than 100,,,,,,,,
+Telecommunications/ISP,"501 to 1,000",1,2 to 10,2 to 10,2 to 10,101 to 1000,101 to 1000,26 to 100,"250,001 to $500,000 USD"
+Technology,"1,001 to 2,000",26 to 100,26 to 100,26 to 100,11 to 25,101 to 1000,101 to 1000,2 to 10,$1 million to $2 million USD
+Banking and finance,"2,001 to 5,000",2 to 10,2 to 10,,2 to 10,1,1,1,"$750,001 to $1,000,000 USD"
+Cybersecurity,"5,001 to 10,000",1,2 to 10,1,Less than 1 ,1,1,1,$4 million to $8 million USD
+Government,"1,001 to 2,000",2 to 10,2 to 10,1,1,2 to 10,Less than 1 ,Less than 1 ,"250,001 to $500,000 USD"
+Technology,"More than 100,000",,,,,,,,
+Cybersecurity,"More than 100,000",26 to 100,101 to 1000,101 to 1000,26 to 100,26 to 100,11 to 25,26 to 100,$16 million to $48 million USD
+Manufacturing,101 to 500,,,,,,,,
+Cybersecurity,"1,001 to 2,000",,,,,,,,
+Transportation,101 to 500,101 to 1000,11 to 25,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"250,001 to $500,000 USD"
+Banking and finance,"More than 100,000",,,,,,,,
+Transportation,Fewer than 100,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"$100,001 to 250,000 USD"
+Technology,"More than 100,000",26 to 100,26 to 100,26 to 100,101 to 1000,101 to 1000,26 to 100,101 to 1000,Greater than $48M USD
+Banking and finance,"501 to 1,000",,,,,,,,
+Technology,"501 to 1,000",26 to 100,11 to 25,101 to 1000,2 to 10,1,,1,"250,001 to $500,000 USD"
+Media,"2,001 to 5,000",11 to 25,26 to 100,26 to 100,11 to 25,101 to 1000,101 to 1000,11 to 25,$4 million to $8 million USD
+Telecommunications/ISP,"2,001 to 5,000",,,,,,,,
+Cybersecurity,Fewer than 100,,,,,,,,
+Media,Fewer than 100,,,,,,,,
+Telecommunications/ISP,"More than 100,000",26 to 100,26 to 100,26 to 100,11 to 25,11 to 25,26 to 100,11 to 25,$4 million to $8 million USD
+Telecommunications/ISP,Fewer than 100,26 to 100,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,"$750,001 to $1,000,000 USD"
+Cybersecurity,101 to 500,26 to 100,26 to 100,11 to 25,2 to 10,1,2 to 10,2 to 10,"$100,001 to 250,000 USD"
+Banking and finance,"5,001 to 10,000",,,,,,,,
+Cybersecurity,101 to 500,,,,,,,,
+Technology,Fewer than 100,Greater than 1000,,Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,Less than 1 ,"Less than $100,000 USD"
+Other (Please specify),"501 to 1,000",,,,,,,,
+Government,"More than 100,000",,,,,,,,
+Banking and finance,"1,001 to 2,000",,,,,,,,
+Technology,101 to 500,,,,,,,,
+Government,"15,001 to 50,000",,,,,,,,
+Government,"2,001 to 5,000",,,,,,,,
+Manufacturing,Fewer than 100,26 to 100,26 to 100,2 to 10,11 to 25,2 to 10,2 to 10,26 to 100,Greater than $48M USD
+Technology,"15,001 to 50,000",11 to 25,11 to 25,11 to 25,11 to 25,Less than 1 ,Less than 1 ,Less than 1 ,
+Telecommunications/ISP,"501 to 1,000",11 to 25,26 to 100,26 to 100,101 to 1000,26 to 100,11 to 25,26 to 100,"$500,001 to $750,000 USD"
+Telecommunications/ISP,"5,001 to 10,000",,,,,,,,Greater than $48M USD
+Technology,"501 to 1,000",2 to 10,11 to 25,2 to 10,11 to 25,11 to 25,11 to 25,11 to 25,"$500,001 to $750,000 USD"
+Other (Please specify),101 to 500,,,,,,,,
+Transportation,"More than 100,000",,,,,,,,
+Telecommunications/ISP,Fewer than 100,,,,,,,,
+Banking and finance,101 to 500,2 to 10,11 to 25,2 to 10,11 to 25,26 to 100,11 to 25,26 to 100,"$750,001 to $1,000,000 USD"
+Banking and finance,"15,001 to 50,000",,,2 to 10,2 to 10,2 to 10,1,1,
+Government,101 to 500,,,,,,,,
+Cybersecurity,101 to 500,2 to 10,11 to 25,11 to 25,2 to 10,11 to 25,11 to 25,2 to 10,"$500,001 to $750,000 USD"
+Media,101 to 500,,,,,,,,
+Government,"50,001 to 100,000",26 to 100,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,Less than 1 ,$4 million to $8 million USD
+Cybersecurity,101 to 500,101 to 1000,26 to 100,,2 to 10,11 to 25,11 to 25,2 to 10,"$750,001 to $1,000,000 USD"
+Transportation,"15,001 to 50,000",,,,,,,,
+Manufacturing,"10,001 to 15,000",2 to 10,1,1,2 to 10,2 to 10,2 to 10,Less than 1 ,"$750,001 to $1,000,000 USD"
+Cybersecurity,101 to 500,,,,,,,,
+Education,101 to 500,,,,,,,,
+Technology,Fewer than 100,2 to 10,Less than 1 (part-time),1,2 to 10,2 to 10,2 to 10,2 to 10,"$100,001 to 250,000 USD"
+Cybersecurity,"501 to 1,000",,Greater than 1000,1,1,1,1,1,$2 million to $4 million USD
+Transportation,"1,001 to 2,000",26 to 100,26 to 100,11 to 25,26 to 100,26 to 100,26 to 100,11 to 25,"$100,001 to 250,000 USD"
+Cybersecurity,"10,001 to 15,000",11 to 25,11 to 25,11 to 25,11 to 25,11 to 25,11 to 25,11 to 25,"$100,001 to 250,000 USD"
+Banking and finance,"501 to 1,000",11 to 25,26 to 100,11 to 25,2 to 10,Less than 1 ,2 to 10,2 to 10,"$750,001 to $1,000,000 USD"
+Banking and finance,"501 to 1,000",101 to 1000,101 to 1000,26 to 100,26 to 100,26 to 100,26 to 100,26 to 100,"$500,001 to $750,000 USD"
+Media,"10,001 to 15,000",101 to 1000,101 to 1000,26 to 100,26 to 100,26 to 100,26 to 100,26 to 100,"$750,001 to $1,000,000 USD"
+Cybersecurity,101 to 500,101 to 1000,2 to 10,,26 to 100,,2 to 10,2 to 10,
+Cybersecurity,Fewer than 100,,,,,,,,
+Retail,Fewer than 100,,,,,,,,
+Banking and finance,Fewer than 100,,,,,,,,
+Other (Please specify),"More than 100,000",,,,,,,,
+Media,"1,001 to 2,000",,,,,,,,
+Cybersecurity,"50,001 to 100,000",,,,,,,,
+Education,101 to 500,,,,,,,,
+Technology,"501 to 1,000",,,,,,,,
+Banking and finance,"1,001 to 2,000",,,,1,1,1,2 to 10,
+Banking and finance,"10,001 to 15,000",26 to 100,11 to 25,2 to 10,11 to 25,2 to 10,11 to 25,2 to 10,"Less than $100,000 USD"
+Technology,"5,001 to 10,000",101 to 1000,11 to 25,101 to 1000,101 to 1000,26 to 100,26 to 100,26 to 100,Greater than $48M USD
+Cybersecurity,Fewer than 100,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,1,1,
+Education,101 to 500,2 to 10,2 to 10,Less than 1 ,Less than 1 ,2 to 10,Less than 1 ,Less than 1 ,"Less than $100,000 USD"
+Manufacturing,101 to 500,2 to 10,2 to 10,1,Less than 1 ,Less than 1 ,1,Less than 1 ,"250,001 to $500,000 USD"
+Cybersecurity,Fewer than 100,26 to 100,11 to 25,2 to 10,2 to 10,1,1,1,"$100,001 to 250,000 USD"
+Technology,Fewer than 100,,2 to 10,Less than 1 ,1,1,2 to 10,Less than 1 ,"Less than $100,000 USD"
+Other (Please specify),"5,001 to 10,000",2 to 10,2 to 10,,2 to 10,2 to 10,2 to 10,,$4 million to $8 million USD
+Education,"2,001 to 5,000",26 to 100,26 to 100,101 to 1000,101 to 1000,101 to 1000,101 to 1000,26 to 100,$1 million to $2 million USD
+Banking and finance,"501 to 1,000",26 to 100,2 to 10,2 to 10,11 to 25,101 to 1000,11 to 25,11 to 25,"Less than $100,000 USD"
+Education,101 to 500,,,,,,,,
+Banking and finance,"2,001 to 5,000",,2 to 10,,2 to 10,,,,$1 million to $2 million USD
+Cybersecurity,101 to 500,26 to 100,11 to 25,11 to 25,2 to 10,2 to 10,2 to 10,Less than 1 ,
+Banking and finance,"5,001 to 10,000",,,1,2 to 10,2 to 10,11 to 25,Less than 1 ,
+Healthcare,"15,001 to 50,000",2 to 10,2 to 10,1,1,Less than 1 ,Less than 1 ,Less than 1 ,$4 million to $8 million USD
+Telecommunications/ISP,101 to 500,,,,,,,,
+Technology,"1,001 to 2,000",2 to 10,1,1,,,2 to 10,1,$2 million to $4 million USD
+Retail,"10,001 to 15,000",,,,,,,,
+Banking and finance,"5,001 to 10,000",,,,,,,,
+Other (Please specify),"5,001 to 10,000",,,,,,,,
+Education,"501 to 1,000",,,,,,,,
+Manufacturing,"2,001 to 5,000",,,,,,,,
+Banking and finance,"5,001 to 10,000",11 to 25,2 to 10,2 to 10,26 to 100,11 to 25,11 to 25,11 to 25,Greater than $48M USD
+Healthcare,"501 to 1,000",,,,,,,,
+Cybersecurity,"5,001 to 10,000",,,,,,,,
+Banking and finance,"501 to 1,000",11 to 25,2 to 10,2 to 10,2 to 10,2 to 10,2 to 10,1,
+Utilities,"5,001 to 10,000",,,,,,,,
+Other (Please specify),"2,001 to 5,000",,,,,,,,
+Education,"501 to 1,000",1,Less than 1 (part-time),Less than 1 ,1,1,1,1,"Less than $100,000 USD"
+Banking and finance,101 to 500,,,,,,,,
+Other (Please specify),Fewer than 100,,,,,,,,
+Healthcare,"More than 100,000",,,,,,,,
+Other (Please specify),Fewer than 100,,,,,,,,
+Government,Fewer than 100,,,,,,,,
+Government,101 to 500,,,,,,,,
+Utilities,"501 to 1,000",,,,,,,,
+Telecommunications/ISP,"5,001 to 10,000",,26 to 100,11 to 25,2 to 10,2 to 10,1,1,$2 million to $4 million USD
+Government,"2,001 to 5,000",,,,,,,,
+Education,"5,001 to 10,000",,,,,,,,
+Banking and finance,"501 to 1,000",,,,,,,,
+Telecommunications/ISP,"10,001 to 15,000",1,1,2 to 10,2 to 10,2 to 10,1,1,"$100,001 to 250,000 USD"
+Government,"More than 100,000",2 to 10,11 to 25,2 to 10,11 to 25,2 to 10,2 to 10,11 to 25,$4 million to $8 million USD

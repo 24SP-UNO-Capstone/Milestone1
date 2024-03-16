@@ -25,7 +25,10 @@ TBD
    - FTE hours required to manage \ maintain
      
  - **Our suggested threat intel framework**
-   - Recommended threat intel feeds to monitor
+   - Describe the types of CTI proactive vs. reactive
+     - Reactive indicating SOAR/SIEM enrichment
+     - Proactive generating actionable intelligence based on organization dependent factors such as industry, security posture, business applications, etc.
+    - Recommended threat intel feeds to monitor
      - Describe the benefits each feed offers.
      - Describe possible automated actions with feeds
      - Describe feeds that require manual intervention

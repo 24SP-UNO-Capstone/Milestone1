@@ -24,7 +24,11 @@ Keys to Our Framework:
 - Mitre ATT&CK Framework
 - STIX & TAXII
 
-Model:
+Model: the intelligence cycle - This cycle goes like: Requirements -> Collection -> Processing -> Analysis -> Dissemination
+
+Discuss stake holder needs PIR, with CISO, Director, Manager
+
+
 
 
 Stake Holder Data and Findings:
@@ -61,4 +65,6 @@ https://usnwc.libguides.com/c.php?g=494120&p=3381427
 https://www.tandfonline.com/doi/abs/10.1080/02684520601046291
   - https://www.tandfonline.com/doi/pdf/10.1080/08850608608435033
 
+https://sansorg.egnyte.com/dl/cUSNBhBLYy
+https://soc-survey.com/
 
