@@ -10,19 +10,19 @@ Below are four graphs that break down organization size vs. annual security budg
 
 **SANs Data Graphs**:
 <div class="align-center">
-	<img src="./images/2022-OrgbyBudget.png" alt="what am I doing here?" style="width:497px;height:298px;">
+	<img src="./images/2022-OrgbyBudget.png" alt="what am I doing here?">
 <div>
 
 <div class="align-center">
-	<img src="./images/2022-OrgbySecSize.png" alt="what am I doing here?" style="width:497px;height:298px;">
+	<img src="./images/2022-OrgbySecSize.png" alt="what am I doing here?">
 <div>
 
 <div class="align-center">
-	<img src="./images/2023-OrgbyBudget.png" alt="what am I doing here?" style="width:497px;height:298px;">
+	<img src="./images/2023-OrgbyBudget.png" alt="what am I doing here?">
 <div>
 
 <div class="align-center">
-	<img src="./images/2023-OrgbySecSize.png" alt="what am I doing here?" style="width:497px;height:298px;">
+	<img src="./images/2023-OrgbySecSize.png" alt="what am I doing here?">
 <div>
 
 
