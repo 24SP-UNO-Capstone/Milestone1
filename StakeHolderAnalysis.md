@@ -13,18 +13,27 @@ Below are four graphs that break down organization size vs. annual security budg
 	<img src="./images/2022-OrgbyBudget.png" alt="what am I doing here?">
 <div>
 
+**Table 1**: This table shows the annual security budget by the size of organizations based on data collected in the SANs 2022 SOC Survey.
+
 <div class="align-center">
 	<img src="./images/2022-OrgbySecSize.png" alt="what am I doing here?">
 <div>
+
+**Table 2**: This table shows the security team size by the size of organizations based on data collected in the SANs 2022 SOC Survey.
 
 <div class="align-center">
 	<img src="./images/2023-OrgbyBudget.png" alt="what am I doing here?">
 <div>
 
+**Table 3**: This table shows the annual security budget by the size of organizations based on data collected in the SANs 2023 SOC Survey.
+
 <div class="align-center">
 	<img src="./images/2023-OrgbySecSize.png" alt="what am I doing here?">
 <div>
 
+**Table 4**: This table shows the security team size by the size of organizations based on data collected in the SANs 2023 SOC Survey.
+
+Report and data available [here.](https://soc-survey.com/)
 
 **Findings**: 
 
