@@ -6,5 +6,6 @@ Logstash is the data pipeline service which does the input ingesting, transforms
 
 Kibana is the last element of an ELK stack.  Kibana provides data visualization for the data supplied by Elasticsearch or Logstash.  Dashboards can be easily customized for an organization's needs to provide easily digestible information.  Kibana meshes well with Elasticsearch and Logstash to parse large amounts of data into a more easily consumed format.
 
+OpenCTI may be used as a freely available application for threat visualization and sharing.  OpenCTI is an open source platform allowing organizations to manage and view cyber threat intelligence knowledge.  It adheres to the STIX framework and integrates with other tools like MISP, TheHive, MITRE ATT&CK, etc.
 
-Our goal is to have a packaged application which can be run either in a Docker container or on a standalone virtual machine/workstation.  The STIX/TAXII nomenclature will be used throughout to provide a common language for threat analysis and hunting.
+Our goal is to demonstrate a packaged application which can be run either in a Docker container or on a standalone virtual machine/workstation.  The STIX/TAXII nomenclature will be used throughout to provide a common language for threat analysis and hunting.
