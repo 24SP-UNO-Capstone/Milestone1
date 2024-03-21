@@ -12,7 +12,7 @@
    1. Provide summary of findings - think executive summary
 3. Utilizing the relevant literature, create solutions to documented issues with prior implementations of CTI program guides and best practices.
    1. List some documented findings
-4. s
+4. Build example automated tooling to ingest and aggregate CTI.
    1. ELK + OpenCTI + MISP + other integrations
 
 ## Research Paper Outline
