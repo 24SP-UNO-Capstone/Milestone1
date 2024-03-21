@@ -123,6 +123,10 @@ curl -u 'USER:PASWORD' --request POST \
 ## Integrations
 - AlienVaultOTX
 - MISP Threat Sharing
-- 
+- OpenCTI
+  - Abuseipdb
+  - GreyNoise
+  - Virustotal
+  - 
 ## Testing
 

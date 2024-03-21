@@ -6,14 +6,32 @@
 
 ## Project Realization 
 
-TBD
+1. Research and review relevant Cyber Threat Intelligence (CTI) documents, prior CTI program guides, tooling, and other relevant literature.
+   1. We researched more and identified our CTI frameworks, and opensource tools, ingestion sources, etc. Explain some research findings, conclusions, and identify some key sources.
+2. Conduct stakeholder analysis to identify the audience and their relevant needs based on organization size or specialized job types.
+   1. Provide summary of findings - think executive summary
+3. Utilizing the relevant literature, create solutions to documented issues with prior implementations of CTI program guides and best practices.
+   1. List some documented findings
+4. s
+   1. ELK + OpenCTI + MISP + other integrations
 
 ## Research Paper Outline
+
+### Abstract
+
+Insert 500 work argument made in paper
+
+
  - **Executive Summary**
    - Stakeholder Analysis \ Audience section 
    - Brief section: What is Threat Intel, how is it used, benefits of it
    - Brief section: The Intelligence Life Cycle, The Diamond Model
    - Brief section: Stix, TAXII, possible automation of threat intel
+ - **Introduction**
+   - Identify benefits and need for cyber threat intelligence
+ - **Prior works**
+   - Discuss findings of prior works, highlight critiques and potential changes in our work.
+ - 
  - **Describe the requirements for a Threat intel program**
    - Server needed to run the automation of tasks
      - Run via lambda functions instead?  
@@ -23,7 +41,6 @@ TBD
      - python?
      - API integrations required?
    - FTE hours required to manage \ maintain
-     
  - **Our suggested threat intel framework**
    - Describe the types of CTI proactive vs. reactive
      - Reactive indicating SOAR/SIEM enrichment
