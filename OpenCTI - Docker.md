@@ -34,17 +34,42 @@ If no errors occured, Give http://localhost:8080/dashboard a try
 
 ## Add a Connector example
 
+View pre-built connectors here https://github.com/OpenCTI-Platform/connectors/tree/master/external-import 
+
+This example will setup alienvault. 
+
+Cope this exact text from the connector's docker-compose file. 
+
+![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/d5bdafee-55d0-4778-8460-ddedb9dcfce8)
+
+Paste it into the bottom of your project's docker-compose, make sure to fill in the required fields. 
+  - Required feilds are:
+    - OPENCTI_TOKEN
+    - ALIENVAULT_API_KEY
+    - ALIENVAULT_PULSE_START_TIMESTAMP (Use today's date or you will get a lot of results)
+
+Run the "Docker compose down" and "Docker compose up" commands to restart the stack. A new container will exist and will automatically pull feeds into your dashboards. 
+
+You can check the connector's status by visitng the **Data** - **Ingestion** - **Connectors** page. 
+
+![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/eace5448-dc6b-437a-82ad-271129c5f572)
+
+Example of results in your dashboard. 
+
+![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/b4dec165-3c33-4dc4-b889-ae2d056694a4)
+
+
 ## Add a RSS feed example
 
 In GUI, go to **data**, **ingestion**
 
 ![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/22e75353-af93-4b8a-8903-0f766b30b82d)
 
-**RSS feeds**
+Click **RSS feeds**
 
 ![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/8b4b8762-9689-4f5c-9898-dd4294e4fe04)
 
-Click **new**
+Click the **plus** button
 
 ![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/e653abe4-3b0f-4f98-8f6e-efb086184f96)
 
