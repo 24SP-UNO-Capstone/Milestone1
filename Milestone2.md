@@ -69,7 +69,7 @@ Visual showing threat intel from a specific attacker?
 MITRE ATT&CK? 
 
 <div class="align-center">
-	<img src="https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/images/CTI-Stack-V1.drawio.png" alt="what am I doing here?">
+	<img src="https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/images/CTI-Stack-V1.2.png" alt="what am I doing here?">
 <div>
 
 
