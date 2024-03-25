@@ -43,7 +43,7 @@ Cope this exact text from the connector's docker-compose file.
 ![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/d5bdafee-55d0-4778-8460-ddedb9dcfce8)
 
 Paste it into the bottom of your project's docker-compose, make sure to fill in the required fields. 
-  - Required feilds are:
+  - Required fields are:
     - OPENCTI_TOKEN
     - ALIENVAULT_API_KEY
     - ALIENVAULT_PULSE_START_TIMESTAMP (Use today's date or you will get a lot of results)
@@ -91,3 +91,32 @@ On your **home** dashboard, details will start flowing
 
 ## Add a TAXII feed example
 
+This example will setup MITRE TAXII feed, below is some required information from MITRE's guide. 
+
+![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/1a741765-c1da-4f9f-83b8-fb26079fa3eb)
+
+In your Open CTI, go to **data** then **ingestion**
+
+![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/52e803f4-7492-4c38-b0f3-e75234b6411e)
+
+Go to **TAXII Feeds** 
+
+![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/cf23280b-c20b-4185-a01a-675c85147809)
+
+Click the **plus** button
+
+![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/8c68eaaa-3614-486b-9708-9eeb3ea5a994)
+
+Fill in the required information 
+  - Required fields are:
+    - Name
+    - Description
+    - TAXII Server URL
+    - TAXII Collection
+    - Import Date (Use today's date)
+   
+Click Create when finished.
+
+![image](https://github.com/24SP-UNO-Capstone/Milestone1/assets/51690971/ee0dc431-8c94-4bc6-965f-29b2009d22a6)
+
+Information will start flowing into your dashboards. 
