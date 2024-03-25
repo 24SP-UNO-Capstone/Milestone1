@@ -13,7 +13,11 @@
 3. Utilizing the relevant literature, create solutions to documented issues with prior implementations of CTI program guides and best practices.
 > List some documented findings
 4. Build example automated tooling to ingest and aggregate CTI.
-> For this objective we have created an on-prem proof-of-concept (PoC) including several open-source technologies. We selected ELK, OpenCTI, and MISP Threat Sharing as 
+> For this objective we have created an on-prem proof-of-concept (PoC) including several open-source technologies. We selected ELK, OpenCTI, and MISP Threat Sharing for our tooling to ingest, aggregate, and reporting. Each tool has a unique purpose. ELK's primary responsibility is to collect and aggregate all logs from endpoints, threat intelligence feeds, and threat intelligence lists. OpenCTI is a medium for analyzing, aggregating, and ingesting threat intelligence feeds, taxii feeds, rss feeds, and more. MISP provides a medium for ingesting threat intelligence lists from different locations and content types. With all of this data, we can provide both reactive and proactive CTI solutions for potential stakeholders. In a production environment this solution can be modified to use another SIEM/data aggregation solution.
+
+<div class="align-center">
+	<img src="https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/images/CTI-Stack-V1.2.png" alt="what am I doing here?">
+<div>
 
 ## Research Paper Outline
 
@@ -67,10 +71,6 @@ Visual showing TAXII explanation?
 Visual showing threat intel from a specific attacker? 
 
 MITRE ATT&CK? 
-
-<div class="align-center">
-	<img src="https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/images/CTI-Stack-V1.2.png" alt="what am I doing here?">
-<div>
 
 
 ## Issue Tracking \ Planning
