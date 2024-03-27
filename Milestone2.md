@@ -24,7 +24,7 @@
 
 ## Research Paper Outline
 
-**Question:** Is it feasible for a SMB to create and leverage the advantages of a Cyber Threat Intelligence program for proactice and reactive analysis?
+**Question:** Is it feasible for a SMB to create and leverage the advantages of a Cyber Threat Intelligence program for proactive and reactive analysis?
 
 ### Abstract
 
