@@ -24,7 +24,7 @@ In the sample file, make sure to edit these fields
   - OPENCTI_ADMIN_EMAIL
   - OPENCTI_ADMIN_TOKEN
     - Use something like https://www.uuidgenerator.net/version4 to generate a uuid v4 token.
-   
+    - PowerShell can also generate UUID's via: `[Guid]::NewGuid().Guid`
 
 When ready, run the "docker compose up" command from Powershell 
 - Note: the very first run will take multiple minutes. 
@@ -45,6 +45,9 @@ Cope this exact text from the connector's docker-compose file.
 Paste it into the bottom of your project's docker-compose, make sure to fill in the required fields. 
   - Required fields are:
     - OPENCTI_TOKEN
+      - This will be the "API Key" for the user account associated with the connector. The documentation indicates it is best practice to create a new user account in the connector group for each unique data connector.
+    - CONNECTOR_ID
+      - Unique ID generated for the docker connector. Can be generated via `[Guid]::NewGuid().Guid`
     - ALIENVAULT_API_KEY
     - ALIENVAULT_PULSE_START_TIMESTAMP (Use today's date or you will get a lot of results)
 
