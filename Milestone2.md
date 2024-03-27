@@ -7,7 +7,10 @@
 ## Project Realization 
 
 1. Research and review relevant Cyber Threat Intelligence (CTI) documents, prior CTI program guides, tooling, and other relevant literature.
-> We researched more and identified our CTI frameworks, and opensource tools, ingestion sources, etc. Explain some research findings, conclusions, and identify some key sources.
+> OpenCTI was selected as the prototype platform as it is an open-source project which can be installed upon any open-source Linux operating system.  OpenCTI is a comprehensive package with the ability to ingest data from dozens of community intelligence feeds.  Data is presented in a straightforward manner for the user to easily see the updated global threat details.
+
+> As mentioned, OpenCTI allows for data connectors to be added as data sources.  We selected the more popular connector feeds: AlienVault, CrowdStrike, AbuseIPDB, and GreyNoise.  These were selected because they are industry heavyweights and can be trusted to provide good data.  However, some of the free API integration with these connectors is rate limited.
+
 2. Conduct stakeholder analysis to identify the audience and their relevant needs based on organization size or specialized job types.
 > We have conducted our stakeholder analysis based on the "SANS SOC Survey" published by the SANS Institute in 2022 and 2023. This report provided us with about one thousand data points indicating the relationship between organization size, information security team size, and an organization's security budget. Based on this survey, we identified the mean value of the organizational security budget and calculated the average spend per user based on an organization's size. From this calculation, we determined that the smaller a business is, the higher the overall security spend per user will be. 
 3. Utilizing the relevant literature, create solutions to documented issues with prior implementations of CTI program guides and best practices.
