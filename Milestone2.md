@@ -33,7 +33,18 @@ We encountered issues deploying the original instance of Open CTI. Our lack of e
 These obstacles have been overcome by reviewing community threads, reading GitHub issues, and analyzing the official troubleshooting guides. Other sources of information such as YouTube demonstrations, stack overflow, and other written resources were used.  
 
 ### On-going Risks
-TBD
+ - Open Source License Restrictions 
+   - Open CTI does have some restrictions on enterprise use which limits certain features to paying customers. This has a minor impact on our framework as the majority of requirements are met with the free or community version. 
+   - ELK TBD
+ - Access to technological resources
+   - As stated previously, a lack of access to business grade tooling leads us to utilize free or open-source platforms instead. While this is a limiting factor, we still believe we can be successful with our project with the resources available. 
+ - Lack of prior works
+   - As a team we have been able to collect enough prior work both academically and from commercial resources to aid us in this project so far. Additional research and resources may be needed for our final framework.
+ - Student availability
+   - As expected with busy schedules, our team has had some minor rescheduling of efforts to fit student availability. These issues have so far been resolved with adjusting meeting times, collaboration over chat tools instead of videos, and weekend working efforts. 
+ - Skillset limitations
+   - A lack of knowledge and hands-on experience with this topic has made this project a learning experience for all members. We have accommodated most issues with large amounts of research, troubleshooting guides, community support threads and other educational materials to assist us when needed. 
+
 
 ### Additional information
 
