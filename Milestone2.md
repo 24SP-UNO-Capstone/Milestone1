@@ -2,7 +2,9 @@
 
 ## Setup Environments
 
-1. Setup a Proof-of-Concept Taxii \ STIX automation 
+Documentation about ELK, our deployment methodology, and current settings can be found in the [ELK markdown document](https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/ELK.md). 
+
+Open CTI installation, connector information, RSS feed and TAXII setup can be found in the [OpenCTI - Docker document](https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/OpenCTI%20-%20Docker.md). 
 
 ## Project Realization 
 
