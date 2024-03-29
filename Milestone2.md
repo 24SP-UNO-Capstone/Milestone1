@@ -63,15 +63,15 @@ These obstacles have been overcome by reviewing community threads, reading GitHu
 > Complexity and Scalability:
 > 
 >   A CTI framework can be difficult for smaller teams to implement due to limited resources.  Conversely, starting with a more simple framework can lead to a different set of difficulties if the framework needs to scale up.Our proposed OpenCTI solution is scalable and easy to set up.  A base OpenCTI instance can be installed on a workstation with minimal CPU cores, but we would advise at least 16gb of RAM to allocate.
-> 
+
 > Resource Intensive:
 > 
 >   Maintaining a CTI framework can be resource intensive based on many factors like personnel skillsets, specialized tools, or the need for continuing training and education.  Smaller businesses may not have the resources to dedicate to this task. OpenCTI  is largely a hands-off and automated solution once installed and configured. However, it does require a fairly robust base infrastructure on which to be installed.
-> 
+
 > Data Overload:
 > 
 >   Undoubtedly a CTI framework can generate and output an enormous amount of data which can overwhelm a small security team.  The presented logs, alerts, and reports generated with round-the-clock data processing will force the team to prioritize what data is the most important.  This constant feed of data will need to be filtered to only show the most relevant information to executives and decision makers.OpenCTI is configurable with various data connectors allowing small teams to add their preferred data sources to limit the amount of data overload presented to team members.-Privacy and Legal ConcernsDepending on the industry, sharing of threat information may be hampered by privacy or legal challenges.  Security teams of all sizes will need to be aware of any regulatory requirements that could impact the sharing or storage of threat information. This issue is present regardless of team size.  We cannot address this directly, and responsibility falls upon the security team themselves.
-> 
+
 > Vendor Lock-In:
 > 
 >   Some CTI frameworks are proprietary to a vendor's product stack. Any kind of vendor lock like this could present a roadblock if the business decides to change direction.  Keeping with a more open solution would allow for easier transitions. OpenCTI is an open-source project which can be freely implemented.  Depending on the preferred license (Community Edition vs. Enterprise), a differing produce license does apply.
@@ -88,10 +88,9 @@ These obstacles have been overcome by reviewing community threads, reading GitHu
 
 ### Abstract
 
-Insert 500 work argument made in paper
-CISO/Director/Manager reporting
-Decision advantage
-Technological feasibility
+> In the evolving cyber threat landscape, companies who sit back and take a purely reactive approach to security are bound to pay for it. In order to address modern security threats, organizations must be able to identify and respond to threats before they are realized. Cyber Threat Intelligence (CTI) is the best mechanism to do this. Over the last 20 years, security programs, information-sharing initiatives, and cybersecurity vendors have exploded the CTI market, producing trillions of data points per year for customer consumption. While having access to this data is excellent, the data has to be operationalized into actionable intelligence. Once this intelligence is actionable, the CTI program can provide upper management with data that can provide an advantage for decision-making in the Cybersecurity space. In order to leverage this data, small and medium businesses (SMBs) must identify the feasibility of creating and maintaining a CTI program that utilizes the resources available to them. This paper analyzes whether or not it is feasible for SMBs to create such a program to feed proactive decision-making and reactive response. 
+
+> To answer this question, we must analyze our target audience to identify their available resources and scale our final solution based on that analysis. Based on our current analysis, SMBs have the overall highest spend per user among the groups identified in the SANs SOC Survey. However, these organizations also have the lowest overall security program spending. In order to combat this, we will primarily focus on open-source tooling and freely available threat intelligence. In an actual production deployment, most organizations will likely already have access to commercial threat intelligence feeds through pre-existing vendor relationships, such as via their EDR, Cloud tenant, and SIEM tooling, which can be integrated into our proposed solution. 
 
  - **Introduction**
    - Brief section: What is Threat Intel, how is it used, benefits of it
