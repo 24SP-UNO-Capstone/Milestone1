@@ -1,3 +1,22 @@
+# Prototype
+
+## Technologies
+- Elastic Search
+- Kibana
+- Cribl Stream
+- OpenCTI
+  - Alienvault OTX
+  - Abuse.ch
+  - Abuseipdb
+  - MITRE ATT&CK
+  - CVE
+  - NIST API
+  - GreyNoise
+  - CISA Known Exploited Vulnerabilities 
+- MISP Threat Sharing
+
+## Description
+
 We will build a prototype companion application for this project. The application will use open-source software to align with our established goals of keeping the project accessible with a low cost of entry. The main software components will be Elasticsearch, Kibana, and OpenCTI.
 
 Elasticsearch is a search and analytics engine that can absorb various inputs. Real-time data searching is supported along with various APIs and custom query building. Elasticsearch supports clustering nodes with a master node for scalability if data ingestion becomes an issue. 
@@ -9,3 +28,7 @@ Kibana is the last element of an ELK stack. Kibana provides data visualization f
 OpenCTI may be used as a freely available application for threat visualization and sharing. OpenCTI is an open-source platform allowing organizations to ingest, manage, report, and visualize cyber threat intelligence knowledge. It adheres to the STIX framework and integrates with other tools like MISP, TheHive, MITRE ATT&CK, etc.
 
 We aim to demonstrate a solution that can be run either in an on-premises data center or the cloud. The STIX/TAXII nomenclature will be used throughout to provide a common language for threat analysis and hunting.
+
+<div class="align-center">
+	<img src="https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/images/CTI-Stack-V1.2.png" alt="what am I doing here?">
+<div>
