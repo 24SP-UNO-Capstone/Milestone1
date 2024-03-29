@@ -6,6 +6,8 @@ Install your favorite container management software.
 
 Official Open CTI guide is [here](https://docs.opencti.io/latest/deployment/installation/#using-docker1)
 
+Un-Official Documentation for OpenCTI Proxmox [deployment](https://benheater.com/proxmox-running-opencti/).
+
 Unofficial Notes:
 
 Create a folder for this project, then use Powershell to CD to that folder 
