@@ -23,7 +23,7 @@ In addition, we have successfully deployed an ELK stack that will be utilized to
    - TAXII Feed ingestion
    - Data Connectors
    - RSS Feed ingestion
- - Successfully set up ELK in a docker environment and implemented a basic configuration.
+ - Successfully set up ELK in a test environment and implemented a basic configuration.
    - Open CTI threat feed ingestion
 
 ### Hindrances 
