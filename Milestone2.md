@@ -2,6 +2,8 @@
 
 ## Setup Environments
 
+General information about our environment plans and development strategy can be found in the [prototype](https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/prototype.md) page. 
+
 Documentation about ELK, our deployment methodology, and current settings can be found in the [ELK markdown document](https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/ELK.md). 
 
 Open CTI installation, connector information, RSS feed, and TAXII setup can be found in the [OpenCTI - Docker](https://github.com/24SP-UNO-Capstone/Milestone1/blob/main/OpenCTI%20-%20Docker.md). 
