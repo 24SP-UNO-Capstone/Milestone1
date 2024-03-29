@@ -60,9 +60,25 @@ These obstacles have been overcome by reviewing community threads, reading GitHu
 2. Conduct stakeholder analysis to identify the audience and their relevant needs based on organization size or specialized job types.
 > We have conducted our stakeholder analysis based on the "SANS SOC Survey" published by the SANS Institute in 2022 and 2023. This report provided us with about one thousand data points indicating the relationship between organization size, information security team size, and an organization's security budget. Based on this survey, we identified the mean value of the organizational security budget and calculated the average spend per user based on an organization's size. From this calculation, we determined that the smaller a business is, the higher the overall security spend per user will be. 
 3. Utilizing the relevant literature, create solutions to documented issues with prior implementations of CTI program guides and best practices.
-> List some documented findings
+> Complexity and Scalability:
+> 
+>   A CTI framework can be difficult for smaller teams to implement due to limited resources.  Conversely, starting with a more simple framework can lead to a different set of difficulties if the framework needs to scale up.Our proposed OpenCTI solution is scalable and easy to set up.  A base OpenCTI instance can be installed on a workstation with minimal CPU cores, but we would advise at least 16gb of RAM to allocate.
+> 
+> Resource Intensive:
+> 
+>   Maintaining a CTI framework can be resource intensive based on many factors like personnel skillsets, specialized tools, or the need for continuing training and education.  Smaller businesses may not have the resources to dedicate to this task. OpenCTI  is largely a hands-off and automated solution once installed and configured. However, it does require a fairly robust base infrastructure on which to be installed.
+> 
+> Data Overload:
+> 
+>   Undoubtedly a CTI framework can generate and output an enormous amount of data which can overwhelm a small security team.  The presented logs, alerts, and reports generated with round-the-clock data processing will force the team to prioritize what data is the most important.  This constant feed of data will need to be filtered to only show the most relevant information to executives and decision makers.OpenCTI is configurable with various data connectors allowing small teams to add their preferred data sources to limit the amount of data overload presented to team members.-Privacy and Legal ConcernsDepending on the industry, sharing of threat information may be hampered by privacy or legal challenges.  Security teams of all sizes will need to be aware of any regulatory requirements that could impact the sharing or storage of threat information. This issue is present regardless of team size.  We cannot address this directly, and responsibility falls upon the security team themselves.
+> 
+> Vendor Lock-In:
+> 
+>   Some CTI frameworks are proprietary to a vendor's product stack. Any kind of vendor lock like this could present a roadblock if the business decides to change direction.  Keeping with a more open solution would allow for easier transitions. OpenCTI is an open-source project which can be freely implemented.  Depending on the preferred license (Community Edition vs. Enterprise), a differing produce license does apply.
+
 4. Build example automated tooling to ingest and aggregate CTI.
 > For this objective we have created an on-prem proof-of-concept (PoC) including several open-source technologies. We selected ELK, OpenCTI, and MISP Threat Sharing for our tooling to ingest, aggregate, and reporting. Each tool has a unique purpose. ELK's primary responsibility is to collect and aggregate all logs from endpoints, threat intelligence feeds, and threat intelligence lists. OpenCTI is a medium for analyzing, aggregating, and ingesting threat intelligence feeds, taxii feeds, rss feeds, and more. MISP provides a medium for ingesting threat intelligence lists from different locations and content types. With all of this data, we can provide both reactive and proactive CTI solutions for potential stakeholders. In a production environment this solution can be modified to use another SIEM/data aggregation solution.
+
 
 
 
@@ -77,13 +93,12 @@ CISO/Director/Manager reporting
 Decision advantage
 Technological feasibility
 
-
  - **Introduction**
-   - Stakeholder Analysis \ Audience section 
    - Brief section: What is Threat Intel, how is it used, benefits of it
    - Brief section: The Intelligence Life Cycle, The Diamond Model
    - Brief section: Stix, TAXII, possible automation of threat intel
    - Identify benefits and need for cyber threat intelligence
+   - Stakeholder Analysis \ Audience section 
  - **Prior works**
    - Discuss findings of prior works, highlight critiques and potential changes in our work.
  - **Describe the requirements for a Threat intel program**
@@ -142,8 +157,4 @@ Technological feasibility
 
 ## Issue Tracking \ Planning
 
-TBD
-
-
-
-
+[Project Board](https://github.com/orgs/24SP-UNO-Capstone/projects/1/views/1)
