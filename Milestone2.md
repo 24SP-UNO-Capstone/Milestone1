@@ -70,6 +70,7 @@ These obstacles have been overcome by reviewing community threads, reading GitHu
 
 Insert 500 work argument made in paper
 CISO/Director/Manager reporting
+Decision advantage
 Technological feasibility
 
 
