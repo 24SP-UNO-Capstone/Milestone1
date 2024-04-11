@@ -1,17 +1,22 @@
 # Outline
+---
 
- - **Introduction**
+ - **Introduction** - JOSH
    - Brief section: What is Threat Intel, how is it used, benefits of it
    - Brief section: The Intelligence Life Cycle, The Diamond Model
    - Brief section: Stix, TAXII, possible automation of threat intel
    - Identify benefits and need for cyber threat intelligence
    - Stakeholder Analysis \ Audience section 
- - **Prior works**
+ - **Prior works** - John
    - Discuss findings of prior works, highlight critiques and potential changes in our work.
- - **Describe the requirements for a Threat intel program**
+ - **Describe the requirements for a Threat intel program** - Dillon
+   - Describe the types of CTI proactive vs. reactive
+     - Reactive indicating SOAR/SIEM enrichment
+     - Proactive generating actionable intelligence based on organization dependent factors such as industry, security posture, business applications, etc.
    - Server needed to run the automation of tasks
      - Run via lambda functions instead?  
    - Cloud resource requirements
+   - Licensing requirements
    - Collection of known utilized software to check for CVEs
    - Possible sec-ops pipeline to feed intel into security tools
      - SOAR?
@@ -19,9 +24,6 @@
      - API integrations required?
    - FTE hours required to manage \ maintain
  - **Our suggested threat intel framework**
-   - Describe the types of CTI proactive vs. reactive
-     - Reactive indicating SOAR/SIEM enrichment
-     - Proactive generating actionable intelligence based on organization dependent factors such as industry, security posture, business applications, etc.
    - The Intelligence Life Cycle
    - The Diamond Model
    - Mitre ATT&CK Framework
