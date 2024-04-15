@@ -23,20 +23,51 @@
 
 > We aim to address these shortcomings and pitfalls by demonstrating a scalable, easy to use framework with open-source tools and a robust data analysis process which can be implemented by a small team of cybersecurity professionals.
 > 
- - **Describe the requirements for a Threat intel program** - Dillon
-   - Describe the types of CTI proactive vs. reactive
+ - **Describe the requirements for a Threat intel program** - Dillon todo
+   - Describe the types of CTI proactive vs. reactive Dillon todo
      - Reactive indicating SOAR/SIEM enrichment
      - Proactive generating actionable intelligence based on organization dependent factors such as industry, security posture, business applications, etc.
-   - Server needed to run the automation of tasks
-     - Run via lambda functions instead?  
-   - Cloud resource requirements
-   - Licensing requirements
-   - Collection of known utilized software to check for CVEs
-   - Possible sec-ops pipeline to feed intel into security tools
+   - Server needed to run the automation of tasks Dillon todo
+     - Run via lambda functions instead?
+    
+       
+**Computing resource requirements**:
+
+Threat intelligence programs require either on-premises dedicated resources or cloud-based resources to collect, store, perform analysis and perform actions with the intelligence they gather. 
+Using the suggested containerized solution in this framework, the resources needed for on-premises are minimal. A single container host with a modern CPU, 8 GB of RAM, and 1TB hard drive can meet minimum requirements. Additional hard drive space may be needed depending on how long threat intel data is kept and the amount of intel sources. For environments with additional Elastic features, use cases, and automation, a more powerful container host system would be required. 
+The suggested solution is also compatible with cloud-based container hosting providers such as AWS ECS, Azure container apps, or Google cloud’s GKE service. Many aspects of this solution could also be automated with python scripting services such as AWS Lambda, Azure functions, or Google cloud functions. 
+
+
+**Licensing considerations**:
+
+At the time of this writing, the suggested solution includes the following licensing considerations. 
+   - Open CTI 
+     - Community edition is subject to the Apache License version 2.0.
+       - This suggested solution utilizes the community edition at no cost to the consumer.
+     - Enterprise edition is available for users with larger budgets.
+       - Not required, however contains additional for advanced deployments.
+   - Elastic Search \ Kibana
+     - Elastic License 2.0 (ELv2)
+       - This suggested solution utilizes the free self-managed (Basic) solution. 
+       - Additional benefits and features are available at a cost, but not required for this deployment. 
+   - Alien Vault Open Threat Exchange (OTX)
+     - Apache License version 2.0.
+   - MISP Threat Sharing
+     - GNU Affero General Public License v3.0
+   - Abuse.ch
+     - Creative Commons CC0 
+
+It’s important to review licensing agreements as they may have changed since the writing of this framework. Currently, these licenses allow for free, commercial use of these products. Changes in these licenses may mean that usage of these tools may start including costs to your organization. Future revisions may contain commercial usage restrictions or state that unauthorized usage may be considered a violation of law. 
+
+
+   - Collection of known utilized software to check for CVEs Dillon todo
+   - Possible sec-ops pipeline to feed intel into security tools Dillon todo
      - SOAR?
      - python?
      - API integrations required?
-   - FTE hours required to manage \ maintain
+   - FTE hours required to manage \ maintain Dillon todo
+
+    
  - **Our suggested threat intel framework**
    - The Intelligence Life Cycle
    - The Diamond Model
