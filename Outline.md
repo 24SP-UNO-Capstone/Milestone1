@@ -27,9 +27,7 @@
    - Describe the types of CTI proactive vs. reactive Dillon todo
      - Reactive indicating SOAR/SIEM enrichment
      - Proactive generating actionable intelligence based on organization dependent factors such as industry, security posture, business applications, etc.
-   - Server needed to run the automation of tasks Dillon todo
-     - Run via lambda functions instead?
-    
+
        
 **Computing resource requirements**:
 
