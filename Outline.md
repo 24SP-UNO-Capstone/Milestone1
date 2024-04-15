@@ -33,6 +33,7 @@
 
 Threat intelligence programs require either on-premises dedicated resources or cloud-based resources to collect, store, perform analysis and perform actions with the intelligence they gather. 
 Using the suggested containerized solution in this framework, the resources needed for on-premises are minimal. A single container host with a modern CPU, 8 GB of RAM, and 1TB hard drive can meet minimum requirements. Additional hard drive space may be needed depending on how long threat intel data is kept and the amount of intel sources. For environments with additional Elastic features, use cases, and automation, a more powerful container host system would be required. 
+
 The suggested solution is also compatible with cloud-based container hosting providers such as AWS ECS, Azure container apps, or Google cloud’s GKE service. Many aspects of this solution could also be automated with python scripting services such as AWS Lambda, Azure functions, or Google cloud functions. 
 
 
