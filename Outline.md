@@ -9,6 +9,20 @@
    - Stakeholder Analysis \ Audience section 
  - **Prior works** - John
    - Discuss findings of prior works, highlight critiques and potential changes in our work.
+  
+ 
+> Comparing the more popular existing CTI frameworks (the Diamond Model, MITRE ATT&CK, STIX/TAXII, and Cyber Kill Chain), we can notice some issues and shortcomings of each.
+
+> The Diamond Model provides a structured approach to cyber threats by focusing on four primary elements of an attack: adversary, infastructure, capabilities, and victim.  As a strength, it offers a complete view of an attack for clear visualization, but falls short due to its complexity.  Security staff may need extra training to fully comprehend all that the Diamond Model requires to be successful.
+
+> MITRE ATT&CK is a knowledge base of tactics and techniques, and provides a common language for analyzing cyber threats.  Its community lead contributions along with comprehensive information and standardization makes this a robust framework for monitoring cyber threats.  It is a solid framework with great techincal information but does not often attribute attacks to any bad actors.
+
+> The STIX/TAXII framework provides a common language for sharing and exchange of threat intelligence.  Its strengths revolve around standardization and scalability.  However it is not an informational database, it only provides a common nomenclature for ease of information sharing.
+
+> The Cyber Kill Chain from Lockheed Martin focuses on understanding the stages of a cyber attack and developing defensees.  It promotes a proactive approach to defense while mantaining a simplistic approach.  The framework falls short with its linear methodology which may not be flexble to handle more complex and evolving cyber threats.
+
+> We aim to address these shortcomings and pitfalls by demonstrating a scalable, easy to use framework with open-source tools and a robust data analysis process which can be implemented by a small team of cybersecurity professionals.
+> 
  - **Describe the requirements for a Threat intel program** - Dillon
    - Describe the types of CTI proactive vs. reactive
      - Reactive indicating SOAR/SIEM enrichment
