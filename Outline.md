@@ -58,9 +58,31 @@ At the time of this writing, the suggested solution includes the following licen
 
 It’s important to review licensing agreements as they may have changed since the writing of this framework. Currently, these licenses allow for free, commercial use of these products. Changes in these licenses may mean that usage of these tools may start including costs to your organization. Future revisions may contain commercial usage restrictions or state that unauthorized usage may be considered a violation of law. 
 
+**Inventory of software and hardware**:
 
-   - Collection of known utilized software to check for CVEs Dillon todo
-   - Possible sec-ops pipeline to feed intel into security tools Dillon todo
+
+Before developing a threat intelligence program and the infrastructure to support it. It’s important to first have an inventory of software and hardware utilized inside of your environment. This allows later steps of the intel collection process to be curated to your organization’s needs. 
+
+For example, if your organization utilizes a specific vendor for firewalls and VPN, you will be highly interested in collecting new CVEs for these devices, rather than monitoring for all CVEs related to all firewall or VPN vendors. Thus, greatly reducing the amount of data collection needed.  This same concept will apply towards software utilized inside the environment. 
+
+A few best practices when generating your inventory of hardware:
+
+   - Utilize an active discovery tool to identify devices connected to the network
+   - Consider a passive asset discovery tool that can identify devices based on network monitoring capabilities. 
+   - Utilize DHCP logging to update your asset inventory
+   - Periodically run a manual review of your inventory in addition to automated collection techniques. 
+
+
+For software assets consider these best practices:
+
+   - Gather software information from your centrally managed software solutions. Such as MECM, SCCM, Intune, etc.
+   - Gather software information from software agents running on hosts, such as anti-malware, Tanium, SIEM agents, etc. 
+   - Consider a passive software discovery tool that can identity software based on network monitoring abilities. 
+   - Periodically run a manual review of your software inventory in addition to automated collection techniques.
+
+
+
+Possible sec-ops pipeline to feed intel into security tools?  Dillon todo
      - SOAR?
      - python?
      - API integrations required?
