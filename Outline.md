@@ -7,6 +7,13 @@
    - Brief section: Stix, TAXII, possible automation of threat intel
    - Identify benefits and need for cyber threat intelligence
    - Stakeholder Analysis \ Audience section 
+
+> The cybersecurity landscape is constantly evolving between advancements in security technologies, identification of new vulnerabilities, new threat actor capabilities, and many other factors play into the overall threatscape. In order to maintain a firm grasp on the bleeding edge of security preparedness and response capabilities, organizations have adopted both proactive and reactive capabilities. Among these capabilities is the adoption of cyber threat intelligence (CTI). CTI according to Abu (2018) can be defined as , "...evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging threat that can be used to inform decisions regarding the subject's response to that menace or hazard..." (p. 4). This definition highlights two critical aspects of CTI, notably, actionable advice that can be used to inform the decision making process of security professionals. 
+> Modern CTI solutions include threat intelligence feeds, tooling, and standards. However, due to the sheer amount of information available, and questionable quality of said data, organizations are left with a mountain of data not intelligence. In order to combat this, organization's must adopt the intelligence cycle and the diamond model. The intelligence cycle if a repetitive set of phases necessary to acquire actionable intelligence from data. Culminated from a five step procedure including planning and direction, collection, processing, analysis and production, and dissemination. Each phase of the intelligence cycle has a specific goal starting with the planning and direction phase, an organization must plan their threat intelligence activities to define the scope and goals of the cycle. Once the goals are identified, data sources can be identified and collected. Once data is collected it must be processed and normalized into information. Once the information has been obtained careful analysis can be conducted to identify information that matches the cycles goal, and the identified information can be produced into the necessessary format for the final phase of dissemination
+- Citations
+  - 10.11591/ijeecs.v10.i1.pp371-379 - Abu (Para. 1)
+
+
  - **Prior works** - John
    - Discuss findings of prior works, highlight critiques and potential changes in our work.
   
