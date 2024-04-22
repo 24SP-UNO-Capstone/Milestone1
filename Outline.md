@@ -16,6 +16,7 @@
 > In order for CTI data to be shared, three standards have been created by MITRE to standardize CTI communication. Structured Threat Information Expression (STIX) is a the standard for threat intelligence sharing platforms to describe threat intelligence data. Cyber Observable eXpression XML schema (CyBox) is used to descibe artifacts or events with related data such as an IPv4 address. Finally, Trusted Austomated eXchange of Indicator Information (TAXII) is an opensource protocol specification used to share cyber threat data between organizations. 
 
 > Given the resource constraints, this research has been scoped to identify the capabilities available to small and medium businesses. To identify this audience, research was gathered from data released by the SANs Institute of Technology in 2022 and 2023, identifying the relationship between organization size, security team size, and security budget. Utilizing these three indicators, the average organizational spending and spending per capita could be calculated to identify acceptable restrictions and scope requirements for delivering recommendations to small and medium business stakeholders properly. 
+
 - Citations
   - 10.11591/ijeecs.v10.i1.pp371-379 - Abu (Para. 1)
   - Crowley, C., Filkins, B., & Pescatore, J. (2024, March 13). SANS 2023 SOC Survey. SANS Institute. https://www.sans.org/white-papers/2023-sans-soc-survey/ 
