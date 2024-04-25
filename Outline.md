@@ -117,34 +117,34 @@ Possible sec-ops pipeline to feed intel into security tools?  Dillon todo
 
     
  - **Our suggested threat intel framework**
-   - The Intelligence Life Cycle
-   - The Diamond Model
-   - Mitre ATT&CK Framework
-   - Threat Intelligence Sharing (STIX/TAXII)
-   - Recommended threat intel feeds to monitor
-     - Describe the benefits each feed offers.
+   - The Intelligence Life Cycle (John)
+   - The Diamond Model (John)
+   - Mitre ATT&CK Framework (John)
+   - Threat Intelligence Sharing (STIX/TAXII) (John)
+   - Recommended threat intel feeds to monitor (Dillon)
+     - Describe the benefits each feed offers.(Dillon)
        - This can be used a baseline to identify the different types/sources of data that are required to generate a sufficiently robust collection of indicators and threat profiles to generate actionable threat intelligence. 
-     - Describe possible automated actions with feeds
+     - Describe possible automated actions with feeds (Dillon)
        - Processing, aggregation, Visualization, etc.
-     - Describe feeds/lists that require manual intervention
+     - Describe feeds/lists that require manual intervention (Dillon)
        - CISA known exploited CVEs
        - ISAC Center Alerting
-   - Recommended actions to take with the newly collected intel
+   - Recommended actions to take with the newly collected intel (Dillon)
      - Blocking IPs in firewalls
      - Blocking Hashes in AV
      - Build detections for TTPs
    - Examples of Reports that can be generated with Threat Intel
      - Decribe the requirements for reporting and the importance of alignments with the needs of management.
    - Examples of how threat intel analysts can provide value to their organizations 
- - **Test Case**
+ - **Test Case**  (Josh)
    - Utilizing the prototype environment and a fictional company create a relavent actionable report highlighting the value of the implemented guide. 
      - Report will be based on a single industry vertical to identify threats, and report on those threats matching "management" reporting needs.
- - **Limitations of Implementation and Tooling**
+ - **Limitations of Implementation and Tooling** (Josh)
    - Discuss limitations with the CTI guides implementation
      - Focus on limitations of free/opensource tooling for business needs
        - License restrictions, lacking feature parity with enterprise license or other enterprise alternatives. 
        - Lack of support.
      - Realize the potential pitfalls of utilizing open-source data vs. commercial "vetted"/"trusted" data from major cybersecurity vendors.
        - i.e. CS/S1/MS have a vast amount of active intel due to collected data via their CIRT services and customer logs. (CrowdStrike uses customer logs for data, not sure on the rest but it wouldn't surprise me)
- - **Conclusion**
+ - **Conclusion** 
    - Summarize findings and highlight critical points.
