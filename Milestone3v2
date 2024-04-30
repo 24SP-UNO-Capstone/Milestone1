@@ -1,3 +1,56 @@
+# CYBR4580/8950 Project Milestone 3: Prototype and Research Paper 
+
+## Overview 
+
+## Environment Setup
+
+## Project Realization 
+
+## Research Paper Outline
+
+ - **Introduction**
+   - Brief section: What is Threat Intel, how is it used, benefits of it
+   - Identify benefits and need for cyber threat intelligence
+   - Stakeholder Analysis \ Audience section 
+   - **Focus on the problem we are solving**
+ - **Our suggested threat intel implementation**
+   - The Intelligence Life Cycle
+   - The Diamond Model
+   - Mitre ATT&CK Framework
+   - Describe the types of CTI proactive vs. reactive
+     - Reactive indicating SOAR/SIEM enrichment
+     - Proactive generating actionable intelligence based on organization dependent factors such as industry, security posture, business applications, etc.
+   - Threat Intelligence Sharing (STIX/TAXII/CyBox)
+   - Recommended threat intel feeds to monitor
+     - Describe the benefits each feed offers.
+       - This can be used a baseline to identify the different types/sources of data that are required to generate a sufficiently robust collection of indicators and threat profiles to generate actionable threat intelligence. 
+     - Describe possible automated actions with feeds
+       - Processing, aggregation, Visualization, etc.
+     - Describe feeds/lists that require manual intervention
+       - CISA known exploited CVEs
+       - ISAC Center Alerting
+   - Recommended actions to take with the newly collected intel
+     - Blocking IPs in firewalls
+     - Blocking Hashes in AV
+     - Build detections for TTPs
+   - Examples of Reports that can be generated with Threat Intel
+     - Decribe the requirements for reporting and the importance of alignments with the needs of management.
+   - Examples of how threat intel analysts can provide value to their organizations 
+ - **Test Case**
+   - Utilizing the prototype environment and a fictional company create a relavent actionable report highlighting the value of the implemented guide. 
+     - Report will be based on a single industry vertical to identify threats, and report on those threats matching "management" reporting needs.
+ - **Related Research**
+   - Discuss findings of prior works, highlight critiques and potential changes in our work.
+ - **Limitations of Implementation and Tooling**
+   - Discuss limitations with the CTI guides implementation
+     - Focus on limitations of free/opensource tooling for business needs
+       - License restrictions, lacking feature parity with enterprise license or other enterprise alternatives. 
+       - Lack of support.
+     - Realize the potential pitfalls of utilizing open-source data vs. commercial "vetted"/"trusted" data from major cybersecurity vendors.
+       - i.e. CS/S1/MS have a vast amount of active intel due to collected data via their CIRT services and customer logs. (CrowdStrike uses customer logs for data, not sure on the rest but it wouldn't surprise me)
+ - **Conclusion**
+   - Summarize findings and highlight critical points.
+
 # Outline
 ---
  - Research Question: Given the resource constraints of small to medium business (SMB) security teams, what kinds of cyber threat intelligence programs can be setup for proactive and reactive analysis on a (scalable) budget?
@@ -8,15 +61,9 @@
    - Brief section: Stix, TAXII, possible automation of threat intel
    - Stakeholder Analysis \ Audience section 
 
-> The cybersecurity landscape constantly evolves between advancements in security technologies, identification of new vulnerabilities, new threat actor capabilities, and many other factors that play into the overall threat landscape. In order to maintain a firm grasp on the bleeding edge of security preparedness and response capabilities, organizations have adopted both proactive and reactive capabilities. Among these capabilities is the adoption of cyber threat intelligence (CTI). CTI, according to Abu (2018), can be defined as "...evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging threat that can be used to inform decisions regarding the subject's response to that menace or hazard..." (p. 4). This definition highlights two critical aspects of CTI, notably, actionable advice that can be used to inform the decision-making process of security professionals. Adding CTI to the decision-making process is a proactive approach to CTI. On the contrary, reactive CTI utilizes CTI data to enrich and inform the decision-making process after an event. 
-
-> Modern CTI solutions include threat intelligence feeds, tooling, and standards. However, due to the sheer amount of information available and the questionable quality of said data, organizations are left with a mountain of data, not intelligence. In order to combat this, organizations must adopt the intelligence cycle and the diamond model. The intelligence cycle is a repetitive set of phases necessary to acquire actionable intelligence from data. They culminated from a five-step procedure including planning and direction, collection, processing, analysis and production, and dissemination. Each phase of the intelligence cycle has a specific goal, starting with the planning and direction phase. An organization must plan its threat intelligence activities to define the scope and goals of the cycle. Once the goals are identified, data sources can be identified and collected. Once data is collected, it must be processed and normalized into information. Once the information has been obtained, careful analysis can be conducted to identify information that matches the cycle's goal, and the identified information can be produced into the necessary format for the final dissemination phase. 
-
-> Along with adherence to the intelligence cycle, the diamond model is a critical component of a successful CTI program. The diamond model represents a relationship between four core features found in a security event: an adversary, capability, infrastructure, and victim.
-
-> In order for CTI data to be shared, three standards have been created by MITRE to standardize CTI communication. Structured Threat Information Expression (STIX) is a the standard for threat intelligence sharing platforms to describe threat intelligence data. Cyber Observable eXpression XML schema (CyBox) is used to descibe artifacts or events with related data such as an IPv4 address. Finally, Trusted Austomated eXchange of Indicator Information (TAXII) is an opensource protocol specification used to share cyber threat data between organizations. 
-
-> Given the resource constraints, this research has been scoped to identify the capabilities available to small and medium businesses. To identify this audience, research was gathered from data released by the SANs Institute of Technology in 2022 and 2023, identifying the relationship between organization size, security team size, and security budget. Utilizing these three indicators, the average organizational spending and spending per capita could be calculated to identify acceptable restrictions and scope requirements for delivering recommendations to small and medium business stakeholders properly. 
+> The cybersecurity landscape constantly evolves between advancements in security technologies, identification of new vulnerabilities, new threat actor capabilities, and many other factors that play into the overall threat landscape. In order to maintain a firm grasp on the bleeding edge of security preparedness and response capabilities, organizations have adopted both proactive and reactive capabilities. Among these capabilities is the adoption of cyber threat intelligence (CTI). CTI, according to Abu (2018), can be defined as "...evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging threat that can be used to inform decisions regarding the subject's response to that menace or hazard..." (p. 4). This definition highlights two critical aspects of CTI, notably, actionable advice that can be used to inform the decision-making process of security professionals. Adding CTI to the decision-making process is a proactive approach to CTI. On the contrary, reactive CTI utilizes CTI data to enrich and inform the decision-making process after an event. Modern CTI solutions include threat intelligence feeds, tooling, and standards. However, due to the sheer amount of information available and the questionable quality of said data, organizations are left with a mountain of data, not intelligence.
+> 
+> Given the resource constraints, this research has been scoped to identify the capabilities available to small and medium businesses. To identify this audience, research was gathered from data released by the SANs Institute of Technology in 2022 and 2023, identifying the relationship between organization size, security team size, and security budget. Utilizing these three indicators, the average organizational spending and spending per capita could be calculated to identify acceptable restrictions and scope requirements for delivering recommendations to small and medium business stakeholders properly. - resource constraints arent as big as you think they are and we are going to show you how to do it
 
 - Citations
   - 10.11591/ijeecs.v10.i1.pp371-379 - Abu (Para. 1)
@@ -84,6 +131,11 @@ Using the suggested containerized solution in this framework, the resources need
 
 **Inventory of software and hardware**:
 
+> In order to combat this, organizations must adopt the intelligence cycle and the diamond model. The intelligence cycle is a repetitive set of phases necessary to acquire actionable intelligence from data. They culminated from a five-step procedure including planning and direction, collection, processing, analysis and production, and dissemination. Each phase of the intelligence cycle has a specific goal, starting with the planning and direction phase. An organization must plan its threat intelligence activities to define the scope and goals of the cycle. Once the goals are identified, data sources can be identified and collected. Once data is collected, it must be processed and normalized into information. Once the information has been obtained, careful analysis can be conducted to identify information that matches the cycle's goal, and the identified information can be produced into the necessary format for the final dissemination phase. 
+
+> Along with adherence to the intelligence cycle, the diamond model is a critical component of a successful CTI program. The diamond model represents a relationship between four core features found in a security event: an adversary, capability, infrastructure, and victim.
+
+> In order for CTI data to be shared, three standards have been created by MITRE to standardize CTI communication. Structured Threat Information Expression (STIX) is a the standard for threat intelligence sharing platforms to describe threat intelligence data. Cyber Observable eXpression XML schema (CyBox) is used to descibe artifacts or events with related data such as an IPv4 address. Finally, Trusted Austomated eXchange of Indicator Information (TAXII) is an opensource protocol specification used to share cyber threat data between organizations. 
 
 > Before developing a threat intelligence program and the infrastructure to support it. It’s important to first have an inventory of software and hardware utilized inside of your environment. This allows later steps of the intel collection process to be curated to your organization’s needs. 
 
@@ -149,3 +201,4 @@ Possible sec-ops pipeline to feed intel into security tools?  Dillon todo
        - i.e. CS/S1/MS have a vast amount of active intel due to collected data via their CIRT services and customer logs. (CrowdStrike uses customer logs for data, not sure on the rest but it wouldn't surprise me)
  - **Conclusion** 
    - Summarize findings and highlight critical points.
+
