@@ -112,13 +112,7 @@ Using the suggested containerized solution in this framework, the resources need
 
 > It’s important to review licensing agreements as they may have changed since the writing of this framework. Currently, these licenses allow for free, commercial use of these products. Changes in these licenses may mean that usage of these tools may start including costs to your organization. Future revisions may contain commercial usage restrictions or state that unauthorized usage may be considered a violation of law. 
 
-**Inventory of software and hardware**:
-
-> In order to combat this, organizations must adopt the intelligence cycle and the diamond model. The intelligence cycle is a repetitive set of phases necessary to acquire actionable intelligence from data. They culminated from a five-step procedure including planning and direction, collection, processing, analysis and production, and dissemination. Each phase of the intelligence cycle has a specific goal, starting with the planning and direction phase. An organization must plan its threat intelligence activities to define the scope and goals of the cycle. Once the goals are identified, data sources can be identified and collected. Once data is collected, it must be processed and normalized into information. Once the information has been obtained, careful analysis can be conducted to identify information that matches the cycle's goal, and the identified information can be produced into the necessary format for the final dissemination phase. 
-
-> Along with adherence to the intelligence cycle, the diamond model is a critical component of a successful CTI program. The diamond model represents a relationship between four core features found in a security event: an adversary, capability, infrastructure, and victim.
-
-> In order for CTI data to be shared, three standards have been created by MITRE to standardize CTI communication. Structured Threat Information Expression (STIX) is a the standard for threat intelligence sharing platforms to describe threat intelligence data. Cyber Observable eXpression XML schema (CyBox) is used to descibe artifacts or events with related data such as an IPv4 address. Finally, Trusted Austomated eXchange of Indicator Information (TAXII) is an opensource protocol specification used to share cyber threat data between organizations. 
+**Inventory of software and hardware**: 
 
 > Before developing a threat intelligence program and the infrastructure to support it. It’s important to first have an inventory of software and hardware utilized inside of your environment. This allows later steps of the intel collection process to be curated to your organization’s needs. 
 
@@ -153,6 +147,11 @@ Possible sec-ops pipeline to feed intel into security tools?  Dillon todo
 
     
  - **Our suggested threat intel framework**
+> In order to combat this, organizations must adopt the intelligence cycle and the diamond model. The intelligence cycle is a repetitive set of phases necessary to acquire actionable intelligence from data. They culminated from a five-step procedure including planning and direction, collection, processing, analysis and production, and dissemination. Each phase of the intelligence cycle has a specific goal, starting with the planning and direction phase. An organization must plan its threat intelligence activities to define the scope and goals of the cycle. Once the goals are identified, data sources can be identified and collected. Once data is collected, it must be processed and normalized into information. Once the information has been obtained, careful analysis can be conducted to identify information that matches the cycle's goal, and the identified information can be produced into the necessary format for the final dissemination phase. 
+
+> Along with adherence to the intelligence cycle, the diamond model is a critical component of a successful CTI program. The diamond model represents a relationship between four core features found in a security event: an adversary, capability, infrastructure, and victim.
+
+> In order for CTI data to be shared, three standards have been created by MITRE to standardize CTI communication. Structured Threat Information Expression (STIX) is a the standard for threat intelligence sharing platforms to describe threat intelligence data. Cyber Observable eXpression XML schema (CyBox) is used to descibe artifacts or events with related data such as an IPv4 address. Finally, Trusted Austomated eXchange of Indicator Information (TAXII) is an opensource protocol specification used to share cyber threat data between organizations.
    - The Intelligence Life Cycle (John)
    - The Diamond Model (John)
    - Mitre ATT&CK Framework (John)
