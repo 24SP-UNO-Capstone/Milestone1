@@ -119,6 +119,8 @@ Possible sec-ops pipeline to feed intel into security tools?  Dillon todo
     
  - **Our suggested threat intel framework**
    - The Intelligence Life Cycle (John)
+  >The cybersecurity intelligence lifecycle offers a complete approach to managing threats and vulnerabilities for use within an environment.  The first stage includes planning and design which should be used to identify any existing security measures and evalute any risk exposure.  In stage two, data collection is established to gather information from internal and external sources such as network logs, threat feeds, and security incident reports.  This data is processed and analyzed in stage three to identify patterns or indicators of compromise.  Based on the analysis, actionable intelligence is produced which may include threat assessments, risk profiles, and incident reports.  Finally, intelligence dissemination and sharing mechanisms allow for relevant information to be shared to stakeholders which improves intelligence activities.  The entire lifecycle is a feedback loop which allows for continuous refinement enabling an organization to respond to constantly evolving threats.
+   - 
    - The Diamond Model (John)
    - Mitre ATT&CK Framework (John)
    - Threat Intelligence Sharing (STIX/TAXII) (John)
