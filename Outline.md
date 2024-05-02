@@ -33,7 +33,7 @@
 
 > MITRE ATT&CK is a knowledge base of tactics and techniques, and provides a common language for analyzing cyber threats.  Its community lead contributions along with comprehensive information and standardization makes this a robust framework for monitoring cyber threats.  It is a solid framework with great techincal information but does not often attribute attacks to any bad actors.
 
-> The STIX/TAXII standard provides a common language for sharing and exchange of threat intelligence.  Its strengths revolve around common language and scalability.  However it is not an informational database, it only provides a preferred nomenclature for ease of information sharing.
+> The STIX/TAXII standard provides a common language for sharing and exchange of threat intelligence.  Its strengths revolve around this language and scalability.  However it is not an informational database, it only provides a preferred nomenclature for ease of information sharing.
 
 > The Cyber Kill Chain from Lockheed Martin focuses on understanding the stages of a cyber attack and developing defensees.  It promotes a proactive approach to defense while mantaining a simplistic approach.  The framework falls short with its linear methodology which may not be flexble to handle more complex and evolving cyber threats.
 
