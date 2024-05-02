@@ -62,29 +62,12 @@
    - Stakeholder Analysis \ Audience section 
 
 > The cybersecurity landscape constantly evolves between advancements in security technologies, identification of new vulnerabilities, new threat actor capabilities, and many other factors that play into the overall threat landscape. In order to maintain a firm grasp on the bleeding edge of security preparedness and response capabilities, organizations have adopted both proactive and reactive capabilities. Among these capabilities is the adoption of cyber threat intelligence (CTI). CTI, according to Abu (2018), can be defined as "...evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging threat that can be used to inform decisions regarding the subject's response to that menace or hazard..." (p. 4). This definition highlights two critical aspects of CTI, notably, actionable advice that can be used to inform the decision-making process of security professionals. Adding CTI to the decision-making process is a proactive approach to CTI. On the contrary, reactive CTI utilizes CTI data to enrich and inform the decision-making process after an event. Modern CTI solutions include threat intelligence feeds, tooling, and standards. However, due to the sheer amount of information available and the questionable quality of said data, organizations are left with a mountain of data, not intelligence.
-> 
+
 > Given the resource constraints, this research has been scoped to identify the capabilities available to small and medium businesses. To identify this audience, research was gathered from data released by the SANs Institute of Technology in 2022 and 2023, identifying the relationship between organization size, security team size, and security budget. Utilizing these three indicators, the average organizational spending and spending per capita could be calculated to identify acceptable restrictions and scope requirements for delivering recommendations to small and medium business stakeholders properly. - resource constraints arent as big as you think they are and we are going to show you how to do it
 
 - Citations
   - 10.11591/ijeecs.v10.i1.pp371-379 - Abu (Para. 1)
   - Crowley, C., Filkins, B., & Pescatore, J. (2024, March 13). SANS 2023 SOC Survey. SANS Institute. https://www.sans.org/white-papers/2023-sans-soc-survey/ 
-
-
- - **Prior works** - John
-   - Discuss findings of prior works, highlight critiques and potential changes in our work.
-  
- 
-> Comparing the more popular existing CTI frameworks (the Diamond Model, MITRE ATT&CK, STIX/TAXII, and Cyber Kill Chain), we can notice some issues and shortcomings of each.
-
-> The Diamond Model provides a structured approach to cyber threats by focusing on four primary elements of an attack: adversary, infastructure, capabilities, and victim.  As a strength, it offers a complete view of an attack for clear visualization, but falls short due to its complexity.  Security staff may need extra training to fully comprehend all that the Diamond Model requires to be successful.
-
-> MITRE ATT&CK is a knowledge base of tactics and techniques, and provides a common language for analyzing cyber threats.  Its community lead contributions along with comprehensive information and standardization makes this a robust framework for monitoring cyber threats.  It is a solid framework with great techincal information but does not often attribute attacks to any bad actors.
-
-> The STIX/TAXII framework provides a common language for sharing and exchange of threat intelligence.  Its strengths revolve around standardization and scalability.  However it is not an informational database, it only provides a common nomenclature for ease of information sharing.
-
-> The Cyber Kill Chain from Lockheed Martin focuses on understanding the stages of a cyber attack and developing defensees.  It promotes a proactive approach to defense while mantaining a simplistic approach.  The framework falls short with its linear methodology which may not be flexble to handle more complex and evolving cyber threats.
-
-> We aim to address these shortcomings and pitfalls by demonstrating a scalable, easy to use framework with open-source tools and a robust data analysis process which can be implemented by a small team of cybersecurity professionals.
 
 
 **Proactive and Reactive Responses**:
@@ -199,6 +182,21 @@ Possible sec-ops pipeline to feed intel into security tools?  Dillon todo
        - Lack of support.
      - Realize the potential pitfalls of utilizing open-source data vs. commercial "vetted"/"trusted" data from major cybersecurity vendors.
        - i.e. CS/S1/MS have a vast amount of active intel due to collected data via their CIRT services and customer logs. (CrowdStrike uses customer logs for data, not sure on the rest but it wouldn't surprise me)
+ - **Prior works** - John
+   - Discuss findings of prior works, highlight critiques and potential changes in our work.
+
+> Comparing the more popular existing CTI frameworks (the Diamond Model, MITRE ATT&CK, STIX/TAXII, and Cyber Kill Chain), we can notice some issues and shortcomings of each.
+
+> The Diamond Model provides a structured approach to cyber threats by focusing on four primary elements of an attack: adversary, infastructure, capabilities, and victim.  As a strength, it offers a complete view of an attack for clear visualization, but falls short due to its complexity.  Security staff may need extra training to fully comprehend all that the Diamond Model requires to be successful.
+
+> MITRE ATT&CK is a knowledge base of tactics and techniques, and provides a common language for analyzing cyber threats.  Its community lead contributions along with comprehensive information and standardization makes this a robust framework for monitoring cyber threats.  It is a solid framework with great techincal information but does not often attribute attacks to any bad actors.
+
+> The STIX/TAXII framework provides a common language for sharing and exchange of threat intelligence.  Its strengths revolve around standardization and scalability.  However it is not an informational database, it only provides a common nomenclature for ease of information sharing.
+
+> The Cyber Kill Chain from Lockheed Martin focuses on understanding the stages of a cyber attack and developing defensees.  It promotes a proactive approach to defense while mantaining a simplistic approach.  The framework falls short with its linear methodology which may not be flexble to handle more complex and evolving cyber threats.
+
+> We aim to address these shortcomings and pitfalls by demonstrating a scalable, easy to use framework with open-source tools and a robust data analysis process which can be implemented by a small team of cybersecurity professionals.
+
  - **Conclusion** 
    - Summarize findings and highlight critical points.
 

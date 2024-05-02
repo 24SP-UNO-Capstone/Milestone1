@@ -2,7 +2,7 @@
 
 Definition SMB: https://www.gartner.com/en/information-technology/glossary/smbs-small-and-midsize-businesses
 
-Vertical: Financial (Paypal)
+Vertical: Financial Services (Paypal)
 
 Size: 500 employees
 
